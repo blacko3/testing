@@ -1,4 +1,4 @@
-#OSINT IOC Feed generated At Time: 2025-07-17T12:20:02+00:00 on Threatview[.]io
+#OSINT IOC Feed generated At Time: 2025-07-17T14:20:01+00:00 on Threatview[.]io
 158.247.249.46
 172.67.152.104
 104.21.1.227

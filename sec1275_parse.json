@@ -1,5 +1,305 @@
 [
     {
+        "post_id": "13465",
+        "title": "Критическая уязвимость в Microsoft SharePoint Server позволяет злоумышленникам получать полный контроль над системами",
+        "url": "https://1275.ru/ioc/kriticheskaya-uyazvimost-v-microsoft-sharepoint-server-pozvolyaet-zloumyshlennikam-poluchat-polnyy-kontrol-nad-sistemami_13465",
+        "description": "Эксперты по кибербезопасности из Bitdefender подтвердили активную эксплуатацию критической уязвимости удаленного выполнения кода (RCE) в локальных развертываниях Microsoft SharePoint Server.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Bitdefender",
+            "CVE-2025-53770"
+        ],
+        "views": 22,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
+        "crawl_date": "2025-07-26T05:29:53.986440"
+    },
+    {
+        "post_id": "13463",
+        "title": "Угрозы кибербезопасности: глубокий анализ веб-оболочки UpdateChecker.aspx",
+        "url": "https://1275.ru/ioc/ugrozy-kiberbezopasnosti-glubokiy-analiz-veb-obolochki-updatechecker-aspx_13463",
+        "description": "В последние годы одним из ключевых инструментов киберпреступников стали веб-оболочки - вредоносные скрипты, которые позволяют злоумышленникам удаленно управлять скомпрометированными серверами.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "FortiGuard Labs"
+        ],
+        "views": 19,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
+        "crawl_date": "2025-07-26T05:29:54.146849"
+    },
+    {
+        "post_id": "13462",
+        "title": "Новая цепочка эксплойтов ToolShell атакует уязвимости SharePoint для удаленного выполнения кода",
+        "url": "https://1275.ru/ioc/novaya-tsepochka-eksploytov-toolshell-atakuet-uyazvimosti-sharepoint-dlya-udalennogo-vypolneniya-koda_13462",
+        "description": "В последние дни эксперты в сфере информационной безопасности наблюдают рост активности злоумышленников, использующих новую цепочку эксплойтов под названием ToolShell.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "CVE-2025-49704",
+            "CVE-2025-49706",
+            "CVE-2025-53770",
+            "CVE-2025-53771",
+            "FortiGuard Labs",
+            "GhostWebShell",
+            "KeySiphon"
+        ],
+        "views": 20,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
+        "crawl_date": "2025-07-26T05:29:54.348707"
+    },
+    {
+        "post_id": "13460",
+        "title": "Опасный троян маскируется под банковские приложения в Индии",
+        "url": "https://1275.ru/ioc/opasnyy-troyan-maskiruetsya-pod-bankovskie-prilozheniya-v-indii_13460",
+        "description": "В последнее время киберпреступники активизировали атаки на пользователей мобильных устройств, используя сложные методы социальной инженерии и технические уязвимости.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "CYFIRMA Research"
+        ],
+        "views": 23,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
+        "crawl_date": "2025-07-26T05:29:54.506147"
+    },
+    {
+        "post_id": "13458",
+        "title": "Мошенники используют поддельную страницу входа в Facebook* для кражи учетных данных",
+        "url": "https://1275.ru/ioc/moshenniki-ispolzuyut-poddelnuyu-stranitsu-vhoda-v-facebook-dlya-krazhi-uchetnyh-dannyh_13458",
+        "description": "В последнее время киберпреступники активизировали фишинговые атаки, направленные на пользователей Facebook*, с целью похищения их учетных данных. На сей раз злоумышленники применяют изощренную схему, включающую",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Phishing"
+        ],
+        "views": 26,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
+        "crawl_date": "2025-07-26T05:29:54.659186"
+    },
+    {
+        "post_id": "13456",
+        "title": "Новая фишинговая атака на пользователей Instagram*: мошенники используют необычную тактику",
+        "url": "https://1275.ru/ioc/novaya-fishingovaya-ataka-na-polzovateley-instagram-moshenniki-ispolzuyut-neobychnuyu-taktiku_13456",
+        "description": "В сети появилась новая фишинговая кампания, направленная на пользователей Instagram*. В отличие от традиционных схем, где жертв перенаправляют на поддельные сайты, злоумышленники применяют более изощренный подход.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Malwarebytes",
+            "Phishing"
+        ],
+        "views": 37,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
+        "crawl_date": "2025-07-26T05:29:54.825889"
+    },
+    {
+        "post_id": "13454",
+        "title": "Новый усовершенствованный стилер SHUYAL крадет данные из 19 популярных браузеров",
+        "url": "https://1275.ru/ioc/novyy-usovershenstvovannyy-stiler-shuyal-kradet-dannye-iz-19-populyarnyh-brauzerov_13454",
+        "description": "В последние дни специалисты по кибербезопасности обнаружили новый опасный стилер под названием SHUYAL, способный извлекать учетные данные из 19 различных веб-браузеров, включая Chrome, Brave, Edge, Opera, Yandex, Tor и другие.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Hybrid Analysis",
+            "SHUYAL",
+            "Stealer"
+        ],
+        "views": 38,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
+        "crawl_date": "2025-07-26T05:29:54.997148"
+    },
+    {
+        "post_id": "13452",
+        "title": "Активность фишинговых доменов, имитирующих SharePoint, резко возросла: новые тактики атак и злоупотребление легитимными сервисами",
+        "url": "https://1275.ru/ioc/aktivnost-fishingovyh-domenov-imitiruyuschih-sharepoint-rezko-vozrosla-novye-taktiki-atak-i-zloupotreblenie-legitimnymi-servisami_13452",
+        "description": "В последние недели эксперты по кибербезопасности зафиксировали значительный рост фишинговых атак, использующих домены, маскирующиеся под Microsoft SharePoint. Эти домены отличаются строгими шаблонами в",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "ANY.RUN",
+            "Phishing"
+        ],
+        "views": 32,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
+        "crawl_date": "2025-07-26T05:29:55.165406"
+    },
+    {
+        "post_id": "13451",
+        "title": "Новый VoIP-ботнет атакует маршрутизаторы, используя стандартные пароли",
+        "url": "https://1275.ru/ioc/novyy-voip-botnet-atakuet-marshrutizatory-ispolzuya-standartnye-paroli_13451",
+        "description": "Кибербезопасность вновь оказалась в центре внимания после обнаружения новой ботнет-сети, нацеленной на VoIP-маршрутизаторы с использованием атак на устройства со стандартными паролями.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "GreyNoise",
+            "Mirai"
+        ],
+        "views": 56,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png.webp",
+        "crawl_date": "2025-07-26T05:29:55.319708"
+    },
+    {
+        "post_id": "13449",
+        "title": "Хакеры взломали игру в Steam и заражают пользователей через Chemia",
+        "url": "https://1275.ru/ioc/hakery-vzlomali-igru-v-steam-i-zarazhayut-polzovateley-cherez-chemia_13449",
+        "description": "На платформе Steam вновь зафиксирована серьезная угроза информационной безопасности, мишенью стала ранняя версия игры Chemia от студии Aether Forge Studios. По данным исследователей из Prodaft, злоумышленник",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Fickle",
+            "PRODAFT Threat Intelligence",
+            "Stealer",
+            "Vidar"
+        ],
+        "views": 45,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
+        "crawl_date": "2025-07-26T05:29:55.493718"
+    },
+    {
+        "post_id": "13447",
+        "title": "Новая угроза для Linux: AI-генерация малвари скрывается в изображениях панд",
+        "url": "https://1275.ru/ioc/novaya-ugroza-dlya-linux-ai-generatsiya-malvari-skryvaetsya-v-izobrazheniyah-pand_13447",
+        "description": "Граница между угрозами, созданными человеком и искусственным интеллектом, начинает размываться. Исследователи из Aqua Nautilus обнаружили вредоносную кампанию, которая демонстрирует тревожный сдвиг в киберпреступности.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Aqua Security",
+            "Koske"
+        ],
+        "views": 50,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
+        "crawl_date": "2025-07-26T05:30:01.576186"
+    },
+    {
+        "post_id": "13443",
+        "title": "Российские хакеры Hive0156 продолжают атаковать украинские военные и правительственные структуры с помощью вредоносной программы REMCOS RAT",
+        "url": "https://1275.ru/ioc/rossiyskie-hakery-hive0156-prodolzhayut-atakovat-ukrainskie-voennye-i-pravitelstvennye-struktury-s-pomoschyu-vredonosnoy-programmy-remcos-rat_13443",
+        "description": "Аналитики IBM X-Force обнаружили активные киберкампании хакерской группировки Hive0156, связанной с российскими спецслужбами. Целью атак стали украинские военные и государственные учреждения.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "APT",
+            "Hive0156",
+            "IBM Security X-Force",
+            "Rat",
+            "RemCos"
+        ],
+        "views": 45,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
+        "crawl_date": "2025-07-26T05:30:01.751866"
+    },
+    {
+        "post_id": "13442",
+        "title": "ToolShell Zero-Day Уязвимости в SharePoint: Глобальная волна атак угрожает безопасности организаций",
+        "url": "https://1275.ru/ioc/toolshell-zero-day-uyazvimosti-v-sharepoint-globalnaya-volna-atak-ugrozhaet-bezopasnosti-organizatsiy_13442",
+        "description": "Компания ESET Research зафиксировала массовые атаки с использованием недавно обнаруженных уязвимостей ToolShell в Microsoft SharePoint Server, которые активно эксплуатируются злоумышленниками с 17 июля 2025 года.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "ESET Research"
+        ],
+        "views": 45,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
+        "crawl_date": "2025-07-26T05:30:01.898526"
+    },
+    {
+        "post_id": "13440",
+        "title": "Киберпреступники используют уязвимость в Barracuda Email Security Gateway для установки бэкдоров через фишинговые письма",
+        "url": "https://1275.ru/ioc/kiberprestupniki-ispolzuyut-uyazvimost-v-barracuda-email-security-gateway-dlya-ustanovki-bekdorov-cherez-fishingovye-pisma_13440",
+        "description": "Агентство кибербезопасности и инфраструктуры США (CISA) опубликовало отчет, в котором предупреждает о новой волне атак, направленных на уязвимость в решениях Barracuda Email Security Gateway (ESG).",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "CISA",
+            "CVE-2023-2868"
+        ],
+        "views": 48,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
+        "crawl_date": "2025-07-26T05:30:02.059003"
+    },
+    {
+        "post_id": "13437",
+        "title": "Индикаторы компрометации ботнета Mirai (обновление за 25.07.2025)",
+        "url": "https://1275.ru/ioc/indikatory-komprometatsii-botneta-mirai-obnovlenie-za-25-07-2025_13437",
+        "description": "Mirai - один из первых значительных ботнетов, нацеленных на открытые сетевые устройства под управлением Linux.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "1275 Research",
+            "Botnet",
+            "Mirai"
+        ],
+        "views": 47,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
+        "crawl_date": "2025-07-26T05:30:02.225514"
+    },
+    {
+        "post_id": "13436",
+        "title": "Китайские хакерские группировки активно эксплуатируют уязвимости SharePoint для распространения вымогателей",
+        "url": "https://1275.ru/ioc/kitayskie-hakerskie-gruppirovki-aktivno-ekspluatiruyut-uyazvimosti-sharepoint-dlya-rasprostraneniya-vymogateley_13436",
+        "description": "23 июля 2025 года, компания Microsoft опубликовала развернутый анализ кибератак, связанных с эксплуатацией уязвимостей в локальных серверах SharePoint. Согласно новым данным, китайские хакерские группировки",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "CVE-2025-53770",
+            "CVE-2025-53771",
+            "Storm-2603",
+            "Warlock"
+        ],
+        "views": 45,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
+        "crawl_date": "2025-07-26T05:30:02.389009"
+    },
+    {
+        "post_id": "13435",
+        "title": "Киберпреступники распространяют вредоносное ПО Vidar через поддельный сайт Disney+",
+        "url": "https://1275.ru/ioc/kiberprestupniki-rasprostranyayut-vredonosnoe-po-vidar-cherez-poddelnyy-sayt-disney_13435",
+        "description": "Эксперты по кибербезопасности из Unit 42, исследовательского подразделения Palo Alto Networks, обнаружили мошеннический веб-сайт, имитирующий официальный сервис Disney+, который использовался для распространения вредоносного ПО Vidar.",
+        "author": "SEC-1275",
+        "date": "25.07.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Palo Alto",
+            "Stealer",
+            "Vidar"
+        ],
+        "views": 43,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
+        "crawl_date": "2025-07-26T05:30:02.546364"
+    },
+    {
         "post_id": "13425",
         "title": "Кибератаки NoName057(16): как российские хактивисты атакуют Европу",
         "url": "https://1275.ru/ioc/kiberataki-noname057-16-kak-rossiyskie-haktivisty-atakuyut-evropu-i-chto-delat-dlya-zaschity_13425",
@@ -11,10 +311,10 @@
             "NoName057(16)",
             "Recorded Future"
         ],
-        "views": 14,
+        "views": 71,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:40:45.733874"
+        "crawl_date": "2025-07-26T05:30:02.705509"
     },
     {
         "post_id": "13423",
@@ -30,10 +330,10 @@
             "RMC",
             "Stealer"
         ],
-        "views": 19,
+        "views": 63,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:40:45.874054"
+        "crawl_date": "2025-07-26T05:30:02.872189"
     },
     {
         "post_id": "13420",
@@ -48,10 +348,10 @@
             "Cisco Talos",
             "Ransomware"
         ],
-        "views": 25,
+        "views": 63,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:40:46.020565"
+        "crawl_date": "2025-07-26T05:30:03.052918"
     },
     {
         "post_id": "13410",
@@ -66,10 +366,10 @@
             "PureHVNC",
             "TorNet"
         ],
-        "views": 35,
+        "views": 67,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:46.154504"
+        "crawl_date": "2025-07-26T05:30:09.442358"
     },
     {
         "post_id": "13406",
@@ -84,10 +384,10 @@
             "Gunra",
             "Ransomware"
         ],
-        "views": 38,
+        "views": 70,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:40:46.284083"
+        "crawl_date": "2025-07-26T05:30:09.608533"
     },
     {
         "post_id": "13405",
@@ -101,10 +401,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 76,
+        "views": 102,
         "vote_score": null,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:46.409136"
+        "crawl_date": "2025-07-26T05:30:09.765486"
     },
     {
         "post_id": "13403",
@@ -121,10 +421,10 @@
             "Rat",
             "Zscaler ThreatLabz"
         ],
-        "views": 37,
+        "views": 59,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:40:46.560155"
+        "crawl_date": "2025-07-26T05:30:09.938670"
     },
     {
         "post_id": "13402",
@@ -139,10 +439,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 35,
+        "views": 59,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:40:46.684856"
+        "crawl_date": "2025-07-26T05:30:10.101529"
     },
     {
         "post_id": "13389",
@@ -159,10 +459,10 @@
             "Seqrite Labs",
             "Spear Phishing"
         ],
-        "views": 53,
+        "views": 75,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:40:46.817099"
+        "crawl_date": "2025-07-26T05:30:10.282225"
     },
     {
         "post_id": "13386",
@@ -177,10 +477,10 @@
             "Arctic Wolf Labs",
             "Dropping Elephant"
         ],
-        "views": 54,
+        "views": 76,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:40:46.940340"
+        "crawl_date": "2025-07-26T05:30:10.457878"
     },
     {
         "post_id": "13384",
@@ -195,10 +495,10 @@
             "Datadog Security Labs",
             "Mimo"
         ],
-        "views": 50,
+        "views": 67,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:40:52.039377"
+        "crawl_date": "2025-07-26T05:30:10.622400"
     },
     {
         "post_id": "13374",
@@ -212,10 +512,10 @@
             "Cofense Phishing Defense Center",
             "Phishing"
         ],
-        "views": 49,
+        "views": 60,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:40:52.157882"
+        "crawl_date": "2025-07-26T05:30:10.777319"
     },
     {
         "post_id": "13372",
@@ -229,10 +529,10 @@
             "Phishing",
             "Zimperium zLabs"
         ],
-        "views": 41,
+        "views": 54,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:40:52.275513"
+        "crawl_date": "2025-07-26T05:30:10.929019"
     },
     {
         "post_id": "13370",
@@ -246,10 +546,10 @@
             "FortiGuard Labs",
             "Phishing"
         ],
-        "views": 43,
+        "views": 58,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:40:52.404939"
+        "crawl_date": "2025-07-26T05:30:17.551384"
     },
     {
         "post_id": "13366",
@@ -262,10 +562,10 @@
         "tags": [
             "Wiz Threat Research"
         ],
-        "views": 56,
+        "views": 64,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:52.511527"
+        "crawl_date": "2025-07-26T05:30:17.708905"
     },
     {
         "post_id": "13360",
@@ -279,10 +579,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 51,
+        "views": 59,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:52.625715"
+        "crawl_date": "2025-07-26T05:30:17.863230"
     },
     {
         "post_id": "13359",
@@ -296,10 +596,10 @@
             "PolySwarm",
             "ZuRu"
         ],
-        "views": 43,
+        "views": 49,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:52.739828"
+        "crawl_date": "2025-07-26T05:30:18.050064"
     },
     {
         "post_id": "13357",
@@ -312,10 +612,10 @@
         "tags": [
             "AhnLab SEcurity intelligence Center (ASEC)"
         ],
-        "views": 53,
+        "views": 59,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:52.850792"
+        "crawl_date": "2025-07-26T05:30:18.203083"
     },
     {
         "post_id": "13356",
@@ -328,10 +628,10 @@
         "tags": [
             "Sucuri"
         ],
-        "views": 51,
+        "views": 56,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:52.971209"
+        "crawl_date": "2025-07-26T05:30:18.346736"
     },
     {
         "post_id": "13354",
@@ -346,10 +646,10 @@
             "NCC Group",
             "Stealer"
         ],
-        "views": 52,
+        "views": 61,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:40:53.109789"
+        "crawl_date": "2025-07-26T05:30:18.502581"
     },
     {
         "post_id": "13353",
@@ -364,10 +664,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 55,
+        "views": 60,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:40:56.689795"
+        "crawl_date": "2025-07-26T05:30:18.667610"
     },
     {
         "post_id": "13351",
@@ -380,10 +680,10 @@
         "tags": [
             "Proofpoint Threat Research"
         ],
-        "views": 49,
+        "views": 53,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:56.803823"
+        "crawl_date": "2025-07-26T05:30:18.809603"
     },
     {
         "post_id": "13348",
@@ -396,10 +696,10 @@
         "tags": [
             "npm"
         ],
-        "views": 51,
+        "views": 61,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:56.917899"
+        "crawl_date": "2025-07-26T05:30:18.958040"
     },
     {
         "post_id": "13344",
@@ -414,10 +714,10 @@
             "Stealer",
             "Trend Micro"
         ],
-        "views": 64,
+        "views": 69,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:40:57.041021"
+        "crawl_date": "2025-07-26T05:30:24.852320"
     },
     {
         "post_id": "13343",
@@ -434,10 +734,10 @@
             "MS-ISAC",
             "Ransomware"
         ],
-        "views": 65,
+        "views": 72,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:40:57.179307"
+        "crawl_date": "2025-07-26T05:30:25.021991"
     },
     {
         "post_id": "13342",
@@ -452,10 +752,10 @@
             "Scavenger",
             "Trojan"
         ],
-        "views": 66,
+        "views": 74,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:40:57.307115"
+        "crawl_date": "2025-07-26T05:30:25.188526"
     },
     {
         "post_id": "13334",
@@ -470,10 +770,10 @@
             "F6 Threat Intelligence",
             "NyashTeam"
         ],
-        "views": 116,
+        "views": 130,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:40:57.431813"
+        "crawl_date": "2025-07-26T05:30:25.342837"
     },
     {
         "post_id": "13326",
@@ -487,10 +787,10 @@
             "AhnLab SEcurity intelligence Center (ASEC)",
             "RokRAT"
         ],
-        "views": 104,
+        "views": 114,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:40:57.553461"
+        "crawl_date": "2025-07-26T05:30:25.493991"
     },
     {
         "post_id": "13325",
@@ -504,10 +804,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 51,
+        "views": 56,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:40:57.669208"
+        "crawl_date": "2025-07-26T05:30:25.654538"
     },
     {
         "post_id": "13323",
@@ -521,10 +821,10 @@
             "ACRStealer",
             "AhnLab SEcurity intelligence Center (ASEC)"
         ],
-        "views": 66,
+        "views": 71,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:40:57.784789"
+        "crawl_date": "2025-07-26T05:30:25.810326"
     },
     {
         "post_id": "13321",
@@ -538,10 +838,10 @@
             "ANY.RUN",
             "DeerStealer"
         ],
-        "views": 59,
+        "views": 64,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:41:02.219870"
+        "crawl_date": "2025-07-26T05:30:25.964567"
     },
     {
         "post_id": "13319",
@@ -555,10 +855,10 @@
             "Phishing",
             "Socket Security"
         ],
-        "views": 57,
+        "views": 65,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:02.335423"
+        "crawl_date": "2025-07-26T05:30:26.115759"
     },
     {
         "post_id": "13318",
@@ -575,10 +875,10 @@
             "CVE-2025-53771",
             "Palo Alto"
         ],
-        "views": 67,
+        "views": 73,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:02.466437"
+        "crawl_date": "2025-07-26T05:30:26.288274"
     },
     {
         "post_id": "13317",
@@ -592,10 +892,10 @@
             "CVE-2025-53770",
             "Raven File (TRF)"
         ],
-        "views": 87,
+        "views": 105,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:02.583509"
+        "crawl_date": "2025-07-26T05:30:31.844452"
     },
     {
         "post_id": "13314",
@@ -610,10 +910,10 @@
             "CVE-2025-53771",
             "Trend Micro"
         ],
-        "views": 63,
+        "views": 83,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:02.703522"
+        "crawl_date": "2025-07-26T05:30:32.000241"
     },
     {
         "post_id": "13313",
@@ -628,10 +928,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 77,
+        "views": 82,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:41:02.825348"
+        "crawl_date": "2025-07-26T05:30:32.171515"
     },
     {
         "post_id": "13312",
@@ -646,10 +946,10 @@
             "Soul",
             "Stealer"
         ],
-        "views": 60,
+        "views": 69,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:41:02.945667"
+        "crawl_date": "2025-07-26T05:30:32.342694"
     },
     {
         "post_id": "13307",
@@ -664,10 +964,10 @@
             "Prometei",
             "Stairwell"
         ],
-        "views": 110,
+        "views": 116,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png.webp",
-        "crawl_date": "2025-07-24T18:41:03.070535"
+        "crawl_date": "2025-07-26T05:30:32.501554"
     },
     {
         "post_id": "13304",
@@ -682,10 +982,10 @@
             "Proxyjacking",
             "Solar 4RAYS"
         ],
-        "views": 125,
+        "views": 138,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:03.189307"
+        "crawl_date": "2025-07-26T05:30:32.663457"
     },
     {
         "post_id": "13303",
@@ -700,10 +1000,10 @@
             "CVE-2025-53770",
             "Symantec"
         ],
-        "views": 68,
+        "views": 79,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:03.312509"
+        "crawl_date": "2025-07-26T05:30:32.824029"
     },
     {
         "post_id": "13301",
@@ -724,10 +1024,10 @@
             "Linuxsys",
             "VulnCheck"
         ],
-        "views": 66,
+        "views": 73,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:07.005775"
+        "crawl_date": "2025-07-26T05:30:33.055036"
     },
     {
         "post_id": "13300",
@@ -740,10 +1040,10 @@
         "tags": [
             "Imperva"
         ],
-        "views": 62,
+        "views": 68,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:07.116800"
+        "crawl_date": "2025-07-26T05:30:33.200141"
     },
     {
         "post_id": "13299",
@@ -758,10 +1058,10 @@
             "Cobalt Strike",
             "Sliver"
         ],
-        "views": 104,
+        "views": 115,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:07.241469"
+        "crawl_date": "2025-07-26T05:30:33.357396"
     },
     {
         "post_id": "13298",
@@ -776,10 +1076,10 @@
             "Ghost Crypt",
             "PureRAT"
         ],
-        "views": 63,
+        "views": 71,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:41:07.363444"
+        "crawl_date": "2025-07-26T05:30:38.958022"
     },
     {
         "post_id": "13292",
@@ -793,10 +1093,10 @@
             "Angara SOC",
             "Phishing"
         ],
-        "views": 57,
+        "views": 62,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:07.479003"
+        "crawl_date": "2025-07-26T05:30:39.128871"
     },
     {
         "post_id": "13288",
@@ -810,10 +1110,10 @@
             "Phishing",
             "SANS Internet Storm Center"
         ],
-        "views": 57,
+        "views": 64,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:07.593213"
+        "crawl_date": "2025-07-26T05:30:39.300026"
     },
     {
         "post_id": "13284",
@@ -829,10 +1129,10 @@
             "Cobalt Strike",
             "Kaspersky Lab"
         ],
-        "views": 117,
+        "views": 127,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:07.721401"
+        "crawl_date": "2025-07-26T05:30:39.557881"
     },
     {
         "post_id": "13281",
@@ -846,10 +1146,10 @@
             "Cryptojacking",
             "Cside"
         ],
-        "views": 60,
+        "views": 68,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:07.835402"
+        "crawl_date": "2025-07-26T05:30:39.709599"
     },
     {
         "post_id": "13277",
@@ -863,10 +1163,10 @@
             "Malwation",
             "SnakeKeylogger"
         ],
-        "views": 55,
+        "views": 60,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/backdoor.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:07.948236"
+        "crawl_date": "2025-07-26T05:30:39.862802"
     },
     {
         "post_id": "13272",
@@ -882,10 +1182,10 @@
             "Lookout Threat Lab",
             "MuddyWater"
         ],
-        "views": 126,
+        "views": 134,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:08.073464"
+        "crawl_date": "2025-07-26T05:30:40.045419"
     },
     {
         "post_id": "13271",
@@ -900,10 +1200,10 @@
             "Stairwell",
             "TodoSwift"
         ],
-        "views": 66,
+        "views": 75,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:13.493779"
+        "crawl_date": "2025-07-26T05:30:40.207569"
     },
     {
         "post_id": "13269",
@@ -919,10 +1219,10 @@
             "Phishing",
             "ScreenConnect"
         ],
-        "views": 66,
+        "views": 75,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:41:13.620037"
+        "crawl_date": "2025-07-26T05:30:40.374859"
     },
     {
         "post_id": "13268",
@@ -937,10 +1237,10 @@
             "Banking Trojan",
             "PolySwarm"
         ],
-        "views": 49,
+        "views": 54,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/01/banking-trojan-761x400.png.webp",
-        "crawl_date": "2025-07-24T18:41:13.742140"
+        "crawl_date": "2025-07-26T05:30:40.532803"
     },
     {
         "post_id": "13267",
@@ -954,10 +1254,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 59,
+        "views": 70,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:13.859325"
+        "crawl_date": "2025-07-26T05:30:45.273212"
     },
     {
         "post_id": "13266",
@@ -975,10 +1275,10 @@
             "Phishing",
             "SystemBC"
         ],
-        "views": 126,
+        "views": 137,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:14.008808"
+        "crawl_date": "2025-07-26T05:30:45.449078"
     },
     {
         "post_id": "13265",
@@ -993,10 +1293,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 117,
+        "views": 122,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:41:14.136658"
+        "crawl_date": "2025-07-26T05:30:45.609498"
     },
     {
         "post_id": "13264",
@@ -1011,10 +1311,10 @@
             "CVE-2025-53770",
             "Microsoft"
         ],
-        "views": 68,
+        "views": 74,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:14.256023"
+        "crawl_date": "2025-07-26T05:30:45.773147"
     },
     {
         "post_id": "13263",
@@ -1028,10 +1328,10 @@
             "CVE-2025-53770",
             "SANS Internet Storm Center"
         ],
-        "views": 77,
+        "views": 91,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:14.370367"
+        "crawl_date": "2025-07-26T05:30:45.929199"
     },
     {
         "post_id": "13261",
@@ -1046,10 +1346,10 @@
             "Botnet",
             "SVF"
         ],
-        "views": 59,
+        "views": 66,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet.png.webp",
-        "crawl_date": "2025-07-24T18:41:14.489460"
+        "crawl_date": "2025-07-26T05:30:46.081933"
     },
     {
         "post_id": "13260",
@@ -1064,10 +1364,10 @@
             "CVE-2025-49706",
             "Palo Alto"
         ],
-        "views": 65,
+        "views": 71,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:14.608469"
+        "crawl_date": "2025-07-26T05:30:46.234696"
     },
     {
         "post_id": "13258",
@@ -1080,10 +1380,10 @@
         "tags": [
             "Seqrite Labs"
         ],
-        "views": 92,
+        "views": 98,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:18.964969"
+        "crawl_date": "2025-07-26T05:30:46.381332"
     },
     {
         "post_id": "13256",
@@ -1098,10 +1398,10 @@
             "NailaoLocker",
             "Ransomware"
         ],
-        "views": 101,
+        "views": 115,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:19.091337"
+        "crawl_date": "2025-07-26T05:30:46.537042"
     },
     {
         "post_id": "13255",
@@ -1116,10 +1416,10 @@
             "Huntress",
             "Ransomware"
         ],
-        "views": 103,
+        "views": 110,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:19.215988"
+        "crawl_date": "2025-07-26T05:30:46.702207"
     },
     {
         "post_id": "13253",
@@ -1134,10 +1434,10 @@
             "Formbook",
             "Phishing"
         ],
-        "views": 87,
+        "views": 93,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:19.334580"
+        "crawl_date": "2025-07-26T05:30:51.738141"
     },
     {
         "post_id": "13252",
@@ -1151,10 +1451,10 @@
             "DeedRAT",
             "S2 Group"
         ],
-        "views": 128,
+        "views": 139,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:41:19.447192"
+        "crawl_date": "2025-07-26T05:30:51.894192"
     },
     {
         "post_id": "13250",
@@ -1167,10 +1467,10 @@
         "tags": [
             "DomainTools"
         ],
-        "views": 77,
+        "views": 83,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:19.559780"
+        "crawl_date": "2025-07-26T05:30:52.047330"
     },
     {
         "post_id": "13249",
@@ -1185,10 +1485,10 @@
             "Sentinelone",
             "Stealer"
         ],
-        "views": 78,
+        "views": 84,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:41:19.694036"
+        "crawl_date": "2025-07-26T05:30:52.214085"
     },
     {
         "post_id": "13235",
@@ -1203,10 +1503,10 @@
             "Odyssey",
             "Stealer"
         ],
-        "views": 76,
+        "views": 81,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:41:19.811162"
+        "crawl_date": "2025-07-26T05:30:52.371789"
     },
     {
         "post_id": "13231",
@@ -1219,10 +1519,10 @@
         "tags": [
             "Sucuri"
         ],
-        "views": 62,
+        "views": 67,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:19.919238"
+        "crawl_date": "2025-07-26T05:30:52.512286"
     },
     {
         "post_id": "13229",
@@ -1243,10 +1543,10 @@
             "SPAWNCHIMERA",
             "VShell"
         ],
-        "views": 75,
+        "views": 84,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:20.068461"
+        "crawl_date": "2025-07-26T05:30:52.740380"
     },
     {
         "post_id": "13227",
@@ -1260,10 +1560,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 65,
+        "views": 72,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:24.735003"
+        "crawl_date": "2025-07-26T05:30:52.891633"
     },
     {
         "post_id": "13226",
@@ -1278,10 +1578,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 84,
+        "views": 89,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:41:24.856724"
+        "crawl_date": "2025-07-26T05:30:53.045814"
     },
     {
         "post_id": "13221",
@@ -1295,10 +1595,10 @@
             "Cyble Research Labs",
             "Phishing"
         ],
-        "views": 96,
+        "views": 103,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:24.969319"
+        "crawl_date": "2025-07-26T05:30:53.193926"
     },
     {
         "post_id": "13218",
@@ -1311,10 +1611,10 @@
         "tags": [
             "DomainTools"
         ],
-        "views": 100,
+        "views": 104,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:25.080315"
+        "crawl_date": "2025-07-26T05:30:58.324385"
     },
     {
         "post_id": "13217",
@@ -1328,10 +1628,10 @@
             "Lookout Threat Lab",
             "Massistant"
         ],
-        "views": 77,
+        "views": 84,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:25.195833"
+        "crawl_date": "2025-07-26T05:30:58.477061"
     },
     {
         "post_id": "13210",
@@ -1346,10 +1646,10 @@
             "APT28",
             "CERT-UA"
         ],
-        "views": 135,
+        "views": 148,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:25.317399"
+        "crawl_date": "2025-07-26T05:30:58.634382"
     },
     {
         "post_id": "13208",
@@ -1364,10 +1664,10 @@
             "Morphisec Threat Labs",
             "Ransomware"
         ],
-        "views": 78,
+        "views": 88,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:25.439007"
+        "crawl_date": "2025-07-26T05:30:58.791752"
     },
     {
         "post_id": "13207",
@@ -1385,10 +1685,10 @@
             "Proofpoint Threat Research",
             "Voldemort"
         ],
-        "views": 84,
+        "views": 90,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:25.575707"
+        "crawl_date": "2025-07-26T05:30:58.964228"
     },
     {
         "post_id": "13206",
@@ -1404,10 +1704,10 @@
             "Emmenhtal",
             "Phishing"
         ],
-        "views": 69,
+        "views": 76,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:25.700565"
+        "crawl_date": "2025-07-26T05:30:59.138523"
     },
     {
         "post_id": "13200",
@@ -1421,10 +1721,10 @@
             "Ontinue",
             "Phishing"
         ],
-        "views": 66,
+        "views": 71,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:25.819143"
+        "crawl_date": "2025-07-26T05:30:59.286550"
     },
     {
         "post_id": "13199",
@@ -1438,10 +1738,10 @@
             "GhostContainer",
             "Kaspersky Lab"
         ],
-        "views": 70,
+        "views": 75,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/security-g0f3e5e56c_1920.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:29.588598"
+        "crawl_date": "2025-07-26T05:30:59.436193"
     },
     {
         "post_id": "13198",
@@ -1456,10 +1756,10 @@
             "Google Threat Intelligence",
             "OVERSTEP"
         ],
-        "views": 92,
+        "views": 97,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:29.708965"
+        "crawl_date": "2025-07-26T05:30:59.592070"
     },
     {
         "post_id": "13195",
@@ -1472,10 +1772,10 @@
         "tags": [
             "Group-IB"
         ],
-        "views": 74,
+        "views": 79,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:29.817093"
+        "crawl_date": "2025-07-26T05:30:59.732540"
     },
     {
         "post_id": "13191",
@@ -1489,10 +1789,10 @@
             "BforeAI",
             "Phishing"
         ],
-        "views": 71,
+        "views": 76,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:29.928177"
+        "crawl_date": "2025-07-26T05:31:05.074866"
     },
     {
         "post_id": "13190",
@@ -1507,10 +1807,10 @@
             "SquidLoader",
             "Trellix Advanced Research"
         ],
-        "views": 81,
+        "views": 87,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:30.047061"
+        "crawl_date": "2025-07-26T05:31:05.227610"
     },
     {
         "post_id": "13188",
@@ -1525,10 +1825,10 @@
             "Ransomware",
             "Trustwave SpiderLabs"
         ],
-        "views": 78,
+        "views": 82,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:30.165669"
+        "crawl_date": "2025-07-26T05:31:05.400134"
     },
     {
         "post_id": "13186",
@@ -1542,10 +1842,10 @@
             "CVE-2025-5777",
             "GreyNoise"
         ],
-        "views": 98,
+        "views": 105,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:30.291965"
+        "crawl_date": "2025-07-26T05:31:05.549725"
     },
     {
         "post_id": "13185",
@@ -1559,10 +1859,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 62,
+        "views": 68,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:30.402847"
+        "crawl_date": "2025-07-26T05:31:05.699587"
     },
     {
         "post_id": "13184",
@@ -1577,10 +1877,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 79,
+        "views": 85,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:41:30.523274"
+        "crawl_date": "2025-07-26T05:31:05.861449"
     },
     {
         "post_id": "13182",
@@ -1593,10 +1893,10 @@
         "tags": [
             "SANS Internet Storm Center"
         ],
-        "views": 116,
+        "views": 124,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:30.631732"
+        "crawl_date": "2025-07-26T05:31:06.009850"
     },
     {
         "post_id": "13181",
@@ -1609,10 +1909,10 @@
         "tags": [
             "Infoblox"
         ],
-        "views": 86,
+        "views": 91,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:36.364719"
+        "crawl_date": "2025-07-26T05:31:06.162764"
     },
     {
         "post_id": "13178",
@@ -1626,10 +1926,10 @@
             "Google Threat Intelligence",
             "Phishing"
         ],
-        "views": 96,
+        "views": 102,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:36.477343"
+        "crawl_date": "2025-07-26T05:31:06.312338"
     },
     {
         "post_id": "13169",
@@ -1644,10 +1944,10 @@
             "H2miner",
             "Lcrypt0rx"
         ],
-        "views": 80,
+        "views": 85,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:36.596131"
+        "crawl_date": "2025-07-26T05:31:06.471115"
     },
     {
         "post_id": "13167",
@@ -1662,10 +1962,10 @@
             "Seqrite Labs",
             "UNG0002"
         ],
-        "views": 105,
+        "views": 111,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:36.713242"
+        "crawl_date": "2025-07-26T05:31:11.092699"
     },
     {
         "post_id": "13165",
@@ -1679,10 +1979,10 @@
             "Cloudflare",
             "Phishing"
         ],
-        "views": 77,
+        "views": 82,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:36.824241"
+        "crawl_date": "2025-07-26T05:31:11.243326"
     },
     {
         "post_id": "13162",
@@ -1708,10 +2008,10 @@
             "RokRAT",
             "UNC5221"
         ],
-        "views": 86,
+        "views": 96,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:37.003657"
+        "crawl_date": "2025-07-26T05:31:11.497192"
     },
     {
         "post_id": "13158",
@@ -1727,10 +2027,10 @@
             "Medusa",
             "Ransomware"
         ],
-        "views": 83,
+        "views": 88,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:37.128555"
+        "crawl_date": "2025-07-26T05:31:11.663334"
     },
     {
         "post_id": "13156",
@@ -1746,10 +2046,10 @@
             "PhantomRemote",
             "Rainbow Hyena"
         ],
-        "views": 115,
+        "views": 121,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:37.251876"
+        "crawl_date": "2025-07-26T05:31:11.825409"
     },
     {
         "post_id": "13010",
@@ -1764,10 +2064,10 @@
             "NodeSnake",
             "Quorum Cyber"
         ],
-        "views": 89,
+        "views": 94,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:37.370552"
+        "crawl_date": "2025-07-26T05:31:11.997041"
     },
     {
         "post_id": "13009",
@@ -1781,10 +2081,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 84,
+        "views": 89,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:37.486251"
+        "crawl_date": "2025-07-26T05:31:12.149266"
     },
     {
         "post_id": "13005",
@@ -1799,10 +2099,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 100,
+        "views": 105,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:41:41.375326"
+        "crawl_date": "2025-07-26T05:31:12.311102"
     },
     {
         "post_id": "13003",
@@ -1817,10 +2117,10 @@
             "Octalyn",
             "Stealer"
         ],
-        "views": 90,
+        "views": 94,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:41:41.497546"
+        "crawl_date": "2025-07-26T05:31:12.464837"
     },
     {
         "post_id": "13002",
@@ -1834,10 +2134,10 @@
             "Konfety",
             "Zimperium zLabs"
         ],
-        "views": 74,
+        "views": 79,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:41.610327"
+        "crawl_date": "2025-07-26T05:31:12.615864"
     },
     {
         "post_id": "13000",
@@ -1852,10 +2152,10 @@
             "Socket Security",
             "XORIndex"
         ],
-        "views": 103,
+        "views": 110,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:41.730296"
+        "crawl_date": "2025-07-26T05:31:17.333138"
     },
     {
         "post_id": "12998",
@@ -1869,10 +2169,10 @@
             "AsyncRAT",
             "ESET Research"
         ],
-        "views": 95,
+        "views": 101,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:41:41.842761"
+        "crawl_date": "2025-07-26T05:31:17.491490"
     },
     {
         "post_id": "12997",
@@ -1885,10 +2185,10 @@
         "tags": [
             "SANS Internet Storm Center"
         ],
-        "views": 84,
+        "views": 89,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:41.950841"
+        "crawl_date": "2025-07-26T05:31:17.644480"
     },
     {
         "post_id": "12985",
@@ -1902,10 +2202,10 @@
             "Ransomware",
             "SonicWall"
         ],
-        "views": 78,
+        "views": 83,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:42.063640"
+        "crawl_date": "2025-07-26T05:31:17.800484"
     },
     {
         "post_id": "12982",
@@ -1919,10 +2219,10 @@
             "Evalian",
             "Phishing"
         ],
-        "views": 65,
+        "views": 70,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:42.175879"
+        "crawl_date": "2025-07-26T05:31:17.959418"
     },
     {
         "post_id": "12976",
@@ -1938,10 +2238,10 @@
             "InvisibleFerret",
             "Socket Security"
         ],
-        "views": 113,
+        "views": 117,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:42.311556"
+        "crawl_date": "2025-07-26T05:31:18.125990"
     },
     {
         "post_id": "12975",
@@ -1957,10 +2257,10 @@
             "Cybereason Security",
             "Ransomware"
         ],
-        "views": 104,
+        "views": 109,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:42.434888"
+        "crawl_date": "2025-07-26T05:31:18.290982"
     },
     {
         "post_id": "12973",
@@ -1974,10 +2274,10 @@
             "S2 Group",
             "SnakeKeylogger"
         ],
-        "views": 100,
+        "views": 106,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/backdoor.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:47.622374"
+        "crawl_date": "2025-07-26T05:31:18.444037"
     },
     {
         "post_id": "12969",
@@ -1991,10 +2291,10 @@
             "AhnLab SEcurity intelligence Center (ASEC)",
             "Stealer"
         ],
-        "views": 87,
+        "views": 93,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:41:47.733537"
+        "crawl_date": "2025-07-26T05:31:18.595335"
     },
     {
         "post_id": "12967",
@@ -2008,10 +2308,10 @@
             "AhnLab SEcurity intelligence Center (ASEC)",
             "Ransomware"
         ],
-        "views": 72,
+        "views": 79,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:47.846262"
+        "crawl_date": "2025-07-26T05:31:18.744914"
     },
     {
         "post_id": "12964",
@@ -2025,10 +2325,10 @@
             "McAfee",
             "Phishing"
         ],
-        "views": 62,
+        "views": 67,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:47.974860"
+        "crawl_date": "2025-07-26T05:31:24.768774"
     },
     {
         "post_id": "12963",
@@ -2042,10 +2342,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 67,
+        "views": 78,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:48.088762"
+        "crawl_date": "2025-07-26T05:31:24.926304"
     },
     {
         "post_id": "12962",
@@ -2059,10 +2359,10 @@
             "NimDoor",
             "Sentinelone"
         ],
-        "views": 89,
+        "views": 93,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:48.202708"
+        "crawl_date": "2025-07-26T05:31:25.088013"
     },
     {
         "post_id": "12961",
@@ -2077,10 +2377,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 97,
+        "views": 103,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:41:48.319831"
+        "crawl_date": "2025-07-26T05:31:25.258736"
     },
     {
         "post_id": "12957",
@@ -2095,10 +2395,10 @@
             "EclecticIQ",
             "GLOBAL GROUP"
         ],
-        "views": 115,
+        "views": 121,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:48.440074"
+        "crawl_date": "2025-07-26T05:31:25.435697"
     },
     {
         "post_id": "12955",
@@ -2113,10 +2413,10 @@
             "FortiGuard Labs",
             "Ransomware"
         ],
-        "views": 84,
+        "views": 89,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:48.576783"
+        "crawl_date": "2025-07-26T05:31:25.673187"
     },
     {
         "post_id": "12923",
@@ -2130,10 +2430,10 @@
             "APT",
             "UNC1151"
         ],
-        "views": 77,
+        "views": 82,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:41:48.720063"
+        "crawl_date": "2025-07-26T05:31:25.880025"
     },
     {
         "post_id": "12922",
@@ -2147,10 +2447,10 @@
             "HazyBeacon",
             "Palo Alto"
         ],
-        "views": 95,
+        "views": 100,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:54.613798"
+        "crawl_date": "2025-07-26T05:31:26.080679"
     },
     {
         "post_id": "12918",
@@ -2165,10 +2465,10 @@
             "CVE-2025-31324",
             "Kudelski Security"
         ],
-        "views": 94,
+        "views": 99,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:54.763662"
+        "crawl_date": "2025-07-26T05:31:26.298011"
     },
     {
         "post_id": "12916",
@@ -2183,10 +2483,10 @@
             "Phishing",
             "UserGate uFactor"
         ],
-        "views": 102,
+        "views": 107,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/security-g0f3e5e56c_1920.jpg.webp",
-        "crawl_date": "2025-07-24T18:41:54.913559"
+        "crawl_date": "2025-07-26T05:31:26.475314"
     },
     {
         "post_id": "12907",
@@ -2199,10 +2499,10 @@
         "tags": [
             "Patchstack"
         ],
-        "views": 69,
+        "views": 74,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:55.035554"
+        "crawl_date": "2025-07-26T05:31:31.463200"
     },
     {
         "post_id": "12906",
@@ -2215,10 +2515,10 @@
         "tags": [
             "Security Annex"
         ],
-        "views": 69,
+        "views": 74,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:55.163801"
+        "crawl_date": "2025-07-26T05:31:31.605130"
     },
     {
         "post_id": "12904",
@@ -2236,10 +2536,10 @@
             "Proofpoint Threat Research",
             "Rat"
         ],
-        "views": 95,
+        "views": 102,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:55.336593"
+        "crawl_date": "2025-07-26T05:31:31.814985"
     },
     {
         "post_id": "12892",
@@ -2252,10 +2552,10 @@
         "tags": [
             "Sucuri"
         ],
-        "views": 71,
+        "views": 76,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:55.482361"
+        "crawl_date": "2025-07-26T05:31:31.966257"
     },
     {
         "post_id": "12891",
@@ -2269,10 +2569,10 @@
             "DefendNot",
             "Stairwell"
         ],
-        "views": 71,
+        "views": 77,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:41:55.621526"
+        "crawl_date": "2025-07-26T05:31:32.136776"
     },
     {
         "post_id": "12890",
@@ -2287,10 +2587,10 @@
             "Qilin",
             "Ransomware"
         ],
-        "views": 87,
+        "views": 92,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:41:55.738461"
+        "crawl_date": "2025-07-26T05:31:32.336859"
     },
     {
         "post_id": "12888",
@@ -2305,10 +2605,10 @@
             "Malware Traffic Analysis",
             "Stealer"
         ],
-        "views": 87,
+        "views": 91,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:41:55.857494"
+        "crawl_date": "2025-07-26T05:31:32.888077"
     },
     {
         "post_id": "12887",
@@ -2322,10 +2622,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 79,
+        "views": 84,
         "vote_score": null,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:00.859734"
+        "crawl_date": "2025-07-26T05:31:33.074219"
     },
     {
         "post_id": "12886",
@@ -2340,10 +2640,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 94,
+        "views": 100,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:00.979851"
+        "crawl_date": "2025-07-26T05:31:33.248634"
     },
     {
         "post_id": "12884",
@@ -2364,10 +2664,10 @@
             "OilRig",
             "Pioneer Kitten"
         ],
-        "views": 138,
+        "views": 145,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:01.130517"
+        "crawl_date": "2025-07-26T05:31:33.447987"
     },
     {
         "post_id": "12883",
@@ -2380,10 +2680,10 @@
         "tags": [
             "Palo Alto"
         ],
-        "views": 116,
+        "views": 126,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:01.238453"
+        "crawl_date": "2025-07-26T05:31:39.704716"
     },
     {
         "post_id": "12877",
@@ -2399,10 +2699,10 @@
             "HappyDoor",
             "Kimsuky"
         ],
-        "views": 108,
+        "views": 113,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:01.364555"
+        "crawl_date": "2025-07-26T05:31:39.868256"
     },
     {
         "post_id": "12871",
@@ -2417,10 +2717,10 @@
             "Lumma",
             "Stealer"
         ],
-        "views": 99,
+        "views": 109,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:42:01.480365"
+        "crawl_date": "2025-07-26T05:31:40.020912"
     },
     {
         "post_id": "12870",
@@ -2435,10 +2735,10 @@
             "Sentinelone",
             "ZuRu"
         ],
-        "views": 86,
+        "views": 91,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:01.601022"
+        "crawl_date": "2025-07-26T05:31:40.180958"
     },
     {
         "post_id": "12868",
@@ -2451,10 +2751,10 @@
         "tags": [
             "DomainTools"
         ],
-        "views": 98,
+        "views": 103,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:01.707768"
+        "crawl_date": "2025-07-26T05:31:40.432318"
     },
     {
         "post_id": "12866",
@@ -2468,10 +2768,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 76,
+        "views": 81,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:01.823496"
+        "crawl_date": "2025-07-26T05:31:40.633068"
     },
     {
         "post_id": "12865",
@@ -2486,10 +2786,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 108,
+        "views": 112,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:01.939382"
+        "crawl_date": "2025-07-26T05:31:40.849243"
     },
     {
         "post_id": "12864",
@@ -2503,10 +2803,10 @@
             "CVE-2025-47812",
             "Huntress"
         ],
-        "views": 148,
+        "views": 153,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:07.759660"
+        "crawl_date": "2025-07-26T05:31:41.090267"
     },
     {
         "post_id": "12862",
@@ -2519,10 +2819,10 @@
         "tags": [
             "Darktrace Threat Research"
         ],
-        "views": 90,
+        "views": 95,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:07.872199"
+        "crawl_date": "2025-07-26T05:31:41.535344"
     },
     {
         "post_id": "12861",
@@ -2535,10 +2835,10 @@
         "tags": [
             "FortiGuard Labs"
         ],
-        "views": 84,
+        "views": 89,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:07.976973"
+        "crawl_date": "2025-07-26T05:31:41.879946"
     },
     {
         "post_id": "12858",
@@ -2552,10 +2852,10 @@
             "CERT-AGID (Italiya)",
             "Phishing"
         ],
-        "views": 86,
+        "views": 90,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:08.088134"
+        "crawl_date": "2025-07-26T05:31:47.314612"
     },
     {
         "post_id": "12857",
@@ -2569,10 +2869,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 72,
+        "views": 77,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:08.202717"
+        "crawl_date": "2025-07-26T05:31:47.546644"
     },
     {
         "post_id": "12853",
@@ -2588,10 +2888,10 @@
             "Rhadamanthys",
             "Stealer"
         ],
-        "views": 89,
+        "views": 95,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:42:08.324483"
+        "crawl_date": "2025-07-26T05:31:47.775417"
     },
     {
         "post_id": "12851",
@@ -2605,10 +2905,10 @@
             "Kaspersky Lab",
             "Quasar"
         ],
-        "views": 70,
+        "views": 75,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:08.435795"
+        "crawl_date": "2025-07-26T05:31:47.991049"
     },
     {
         "post_id": "12849",
@@ -2624,10 +2924,10 @@
             "NetSupport",
             "Palo Alto"
         ],
-        "views": 90,
+        "views": 99,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:08.581187"
+        "crawl_date": "2025-07-26T05:31:48.217383"
     },
     {
         "post_id": "12840",
@@ -2644,10 +2944,10 @@
             "Phishing",
             "Trellix Advanced Research"
         ],
-        "views": 99,
+        "views": 104,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:08.712312"
+        "crawl_date": "2025-07-26T05:31:48.464736"
     },
     {
         "post_id": "12833",
@@ -2663,10 +2963,10 @@
             "Phishing",
             "Stealer"
         ],
-        "views": 102,
+        "views": 107,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:42:08.834552"
+        "crawl_date": "2025-07-26T05:31:48.670461"
     },
     {
         "post_id": "12831",
@@ -2679,10 +2979,10 @@
         "tags": [
             "Sucuri"
         ],
-        "views": 69,
+        "views": 74,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:13.529631"
+        "crawl_date": "2025-07-26T05:31:48.865520"
     },
     {
         "post_id": "12829",
@@ -2697,10 +2997,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 113,
+        "views": 119,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:13.649850"
+        "crawl_date": "2025-07-26T05:31:49.070906"
     },
     {
         "post_id": "12824",
@@ -2714,10 +3014,10 @@
             "Botnet",
             "GreyNoise"
         ],
-        "views": 139,
+        "views": 148,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png.webp",
-        "crawl_date": "2025-07-24T18:42:13.762295"
+        "crawl_date": "2025-07-26T05:31:49.280520"
     },
     {
         "post_id": "12823",
@@ -2732,10 +3032,10 @@
             "Ransomware",
             "SafePay"
         ],
-        "views": 100,
+        "views": 105,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:42:13.879346"
+        "crawl_date": "2025-07-26T05:31:54.570649"
     },
     {
         "post_id": "12820",
@@ -2748,10 +3048,10 @@
         "tags": [
             "Koi Security"
         ],
-        "views": 78,
+        "views": 83,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:13.987288"
+        "crawl_date": "2025-07-26T05:31:54.714012"
     },
     {
         "post_id": "12818",
@@ -2769,10 +3069,10 @@
             "Pay2Key",
             "Ransomware"
         ],
-        "views": 101,
+        "views": 106,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:14.119440"
+        "crawl_date": "2025-07-26T05:31:54.892579"
     },
     {
         "post_id": "12814",
@@ -2789,10 +3089,10 @@
             "VELETRIX",
             "VShell"
         ],
-        "views": 100,
+        "views": 112,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:14.248616"
+        "crawl_date": "2025-07-26T05:31:55.063575"
     },
     {
         "post_id": "12813",
@@ -2805,10 +3105,10 @@
         "tags": [
             "Koi Security"
         ],
-        "views": 107,
+        "views": 113,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:14.356530"
+        "crawl_date": "2025-07-26T05:31:55.351332"
     },
     {
         "post_id": "12812",
@@ -2824,10 +3124,10 @@
             "NetCat",
             "XMRig"
         ],
-        "views": 90,
+        "views": 96,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:14.479610"
+        "crawl_date": "2025-07-26T05:31:55.520707"
     },
     {
         "post_id": "12810",
@@ -2841,10 +3141,10 @@
             "AhnLab SEcurity intelligence Center (ASEC)",
             "Phishing"
         ],
-        "views": 87,
+        "views": 93,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:14.593835"
+        "crawl_date": "2025-07-26T05:31:55.676421"
     },
     {
         "post_id": "12807",
@@ -2857,10 +3157,10 @@
         "tags": [
             "AhnLab SEcurity intelligence Center (ASEC)"
         ],
-        "views": 69,
+        "views": 76,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:18.211579"
+        "crawl_date": "2025-07-26T05:31:55.830614"
     },
     {
         "post_id": "12806",
@@ -2873,10 +3173,10 @@
         "tags": [
             "Darktrace Threat Research"
         ],
-        "views": 77,
+        "views": 82,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:18.322371"
+        "crawl_date": "2025-07-26T05:31:55.980247"
     },
     {
         "post_id": "12805",
@@ -2891,10 +3191,10 @@
             "SparkKitty",
             "Trojan"
         ],
-        "views": 70,
+        "views": 74,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:42:18.441082"
+        "crawl_date": "2025-07-26T05:31:56.146849"
     },
     {
         "post_id": "12804",
@@ -2909,10 +3209,10 @@
             "Ransomware",
             "S2W Threat Intelligence"
         ],
-        "views": 82,
+        "views": 86,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:42:18.561240"
+        "crawl_date": "2025-07-26T05:32:01.878869"
     },
     {
         "post_id": "12802",
@@ -2926,10 +3226,10 @@
             "KnowBe4 ThreatLabs",
             "Phishing"
         ],
-        "views": 78,
+        "views": 83,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:18.672224"
+        "crawl_date": "2025-07-26T05:32:02.047097"
     },
     {
         "post_id": "12801",
@@ -2943,10 +3243,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 81,
+        "views": 91,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:18.787853"
+        "crawl_date": "2025-07-26T05:32:02.232071"
     },
     {
         "post_id": "12800",
@@ -2961,10 +3261,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 68,
+        "views": 73,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:18.906636"
+        "crawl_date": "2025-07-26T05:32:02.389268"
     },
     {
         "post_id": "12794",
@@ -2979,10 +3279,10 @@
             "Triada",
             "Trojan"
         ],
-        "views": 93,
+        "views": 98,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:42:19.023926"
+        "crawl_date": "2025-07-26T05:32:02.548120"
     },
     {
         "post_id": "12793",
@@ -2995,10 +3295,10 @@
         "tags": [
             "ReversingLabs"
         ],
-        "views": 74,
+        "views": 79,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:19.144351"
+        "crawl_date": "2025-07-26T05:32:02.688506"
     },
     {
         "post_id": "12792",
@@ -3013,10 +3313,10 @@
             "Cybereason Security",
             "NetSupport"
         ],
-        "views": 85,
+        "views": 89,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:42:19.258521"
+        "crawl_date": "2025-07-26T05:32:02.844128"
     },
     {
         "post_id": "12789",
@@ -3030,10 +3330,10 @@
             "Splunk Threat Research",
             "XWorm"
         ],
-        "views": 99,
+        "views": 106,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/security-g0f3e5e56c_1920.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:23.167649"
+        "crawl_date": "2025-07-26T05:32:03.044562"
     },
     {
         "post_id": "12787",
@@ -3049,10 +3349,10 @@
             "Palo Alto",
             "UNC961"
         ],
-        "views": 96,
+        "views": 103,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:23.289716"
+        "crawl_date": "2025-07-26T05:32:03.240371"
     },
     {
         "post_id": "12785",
@@ -3069,10 +3369,10 @@
             "Phishing",
             "Stealer"
         ],
-        "views": 93,
+        "views": 98,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:42:23.417600"
+        "crawl_date": "2025-07-26T05:32:03.415889"
     },
     {
         "post_id": "12784",
@@ -3092,10 +3392,10 @@
             "RemCos",
             "Zegost"
         ],
-        "views": 90,
+        "views": 95,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:23.562441"
+        "crawl_date": "2025-07-26T05:32:09.210811"
     },
     {
         "post_id": "12782",
@@ -3111,10 +3411,10 @@
             "QiAnXin",
             "Silver Fox"
         ],
-        "views": 79,
+        "views": 85,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:23.685946"
+        "crawl_date": "2025-07-26T05:32:09.384793"
     },
     {
         "post_id": "12781",
@@ -3129,10 +3429,10 @@
             "Red Piranha",
             "SafePay"
         ],
-        "views": 80,
+        "views": 85,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:42:23.804777"
+        "crawl_date": "2025-07-26T05:32:09.554313"
     },
     {
         "post_id": "12780",
@@ -3147,10 +3447,10 @@
             "Ransomware",
             "SafePay"
         ],
-        "views": 83,
+        "views": 89,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:42:23.922162"
+        "crawl_date": "2025-07-26T05:32:09.725431"
     },
     {
         "post_id": "12778",
@@ -3166,10 +3466,10 @@
             "Datacarry",
             "Ransomware"
         ],
-        "views": 100,
+        "views": 105,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:42:24.042428"
+        "crawl_date": "2025-07-26T05:32:09.890414"
     },
     {
         "post_id": "12777",
@@ -3184,10 +3484,10 @@
             "Ransomware",
             "Trend Micro"
         ],
-        "views": 81,
+        "views": 86,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:42:24.164320"
+        "crawl_date": "2025-07-26T05:32:10.050719"
     },
     {
         "post_id": "12776",
@@ -3202,10 +3502,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 96,
+        "views": 101,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:24.281841"
+        "crawl_date": "2025-07-26T05:32:10.215623"
     },
     {
         "post_id": "12775",
@@ -3218,10 +3518,10 @@
         "tags": [
             "Socket Security"
         ],
-        "views": 78,
+        "views": 88,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:29.125491"
+        "crawl_date": "2025-07-26T05:32:10.363775"
     },
     {
         "post_id": "12774",
@@ -3236,10 +3536,10 @@
             "NordDragonScan",
             "Trojan"
         ],
-        "views": 127,
+        "views": 132,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:42:29.241100"
+        "crawl_date": "2025-07-26T05:32:10.517659"
     },
     {
         "post_id": "12773",
@@ -3256,10 +3556,10 @@
             "Phishing",
             "Transparent Tribe"
         ],
-        "views": 121,
+        "views": 126,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:29.370639"
+        "crawl_date": "2025-07-26T05:32:10.696400"
     },
     {
         "post_id": "12772",
@@ -3273,10 +3573,10 @@
             "APT",
             "NightEagle"
         ],
-        "views": 133,
+        "views": 138,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:29.481615"
+        "crawl_date": "2025-07-26T05:32:16.478194"
     },
     {
         "post_id": "12771",
@@ -3289,10 +3589,10 @@
         "tags": [
             "Kudelski Security"
         ],
-        "views": 117,
+        "views": 123,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:29.586452"
+        "crawl_date": "2025-07-26T05:32:16.618571"
     },
     {
         "post_id": "12769",
@@ -3306,10 +3606,10 @@
             "Cyble Research Labs",
             "Phishing"
         ],
-        "views": 125,
+        "views": 130,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:29.697745"
+        "crawl_date": "2025-07-26T05:32:16.822343"
     },
     {
         "post_id": "12768",
@@ -3325,10 +3625,10 @@
             "Phishing",
             "Trojan"
         ],
-        "views": 113,
+        "views": 119,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:42:29.820100"
+        "crawl_date": "2025-07-26T05:32:17.042531"
     },
     {
         "post_id": "12767",
@@ -3342,10 +3642,10 @@
             "GDATA",
             "XMRig"
         ],
-        "views": 106,
+        "views": 111,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:29.932937"
+        "crawl_date": "2025-07-26T05:32:17.196550"
     },
     {
         "post_id": "12697",
@@ -3360,10 +3660,10 @@
             "Rat",
             "XWorm"
         ],
-        "views": 116,
+        "views": 122,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:42:30.048687"
+        "crawl_date": "2025-07-26T05:32:17.395044"
     },
     {
         "post_id": "12696",
@@ -3378,10 +3678,10 @@
             "Botnet",
             "XML-RPC"
         ],
-        "views": 138,
+        "views": 143,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png.webp",
-        "crawl_date": "2025-07-24T18:42:30.165928"
+        "crawl_date": "2025-07-26T05:32:17.589345"
     },
     {
         "post_id": "12695",
@@ -3396,10 +3696,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 116,
+        "views": 121,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:35.269868"
+        "crawl_date": "2025-07-26T05:32:17.783654"
     },
     {
         "post_id": "12693",
@@ -3414,10 +3714,10 @@
             "Splunk Threat Research",
             "Stealer"
         ],
-        "views": 139,
+        "views": 144,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:42:35.391430"
+        "crawl_date": "2025-07-26T05:32:18.121973"
     },
     {
         "post_id": "12688",
@@ -3431,10 +3731,10 @@
             "Wiz Threat Research",
             "XMRig"
         ],
-        "views": 158,
+        "views": 163,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:35.505506"
+        "crawl_date": "2025-07-26T05:32:18.277797"
     },
     {
         "post_id": "12687",
@@ -3447,10 +3747,10 @@
         "tags": [
             "Phishing"
         ],
-        "views": 133,
+        "views": 138,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:35.614969"
+        "crawl_date": "2025-07-26T05:32:23.268336"
     },
     {
         "post_id": "12686",
@@ -3465,10 +3765,10 @@
             "SANS Internet Storm Center",
             "Stealer"
         ],
-        "views": 145,
+        "views": 150,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:42:35.735240"
+        "crawl_date": "2025-07-26T05:32:23.427248"
     },
     {
         "post_id": "12685",
@@ -3481,10 +3781,10 @@
         "tags": [
             "SANS Internet Storm Center"
         ],
-        "views": 140,
+        "views": 145,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:35.843369"
+        "crawl_date": "2025-07-26T05:32:23.569134"
     },
     {
         "post_id": "12681",
@@ -3498,10 +3798,10 @@
             "1275 Research",
             "XML-RPC"
         ],
-        "views": 174,
+        "views": 179,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png.webp",
-        "crawl_date": "2025-07-24T18:42:35.957458"
+        "crawl_date": "2025-07-26T05:32:23.715582"
     },
     {
         "post_id": "12680",
@@ -3516,10 +3816,10 @@
             "Hpingbot",
             "NSFOCUS Security Labs"
         ],
-        "views": 155,
+        "views": 159,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png.webp",
-        "crawl_date": "2025-07-24T18:42:36.074614"
+        "crawl_date": "2025-07-26T05:32:23.871252"
     },
     {
         "post_id": "12679",
@@ -3534,10 +3834,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 137,
+        "views": 142,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:36.192064"
+        "crawl_date": "2025-07-26T05:32:24.037758"
     },
     {
         "post_id": "12678",
@@ -3550,10 +3850,10 @@
         "tags": [
             "Koi Security"
         ],
-        "views": 210,
+        "views": 215,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:36.303404"
+        "crawl_date": "2025-07-26T05:32:24.182794"
     },
     {
         "post_id": "12677",
@@ -3568,10 +3868,10 @@
             "Framework",
             "SHELLTER"
         ],
-        "views": 165,
+        "views": 171,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:41.740854"
+        "crawl_date": "2025-07-26T05:32:24.333847"
     },
     {
         "post_id": "12676",
@@ -3588,10 +3888,10 @@
             "FortiGuard Labs",
             "RondoDox"
         ],
-        "views": 183,
+        "views": 188,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png.webp",
-        "crawl_date": "2025-07-24T18:42:41.868917"
+        "crawl_date": "2025-07-26T05:32:24.510908"
     },
     {
         "post_id": "12675",
@@ -3605,10 +3905,10 @@
             "Phishing",
             "Silent Push"
         ],
-        "views": 146,
+        "views": 151,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:41.980812"
+        "crawl_date": "2025-07-26T05:32:24.658823"
     },
     {
         "post_id": "12673",
@@ -3622,10 +3922,10 @@
             "JanelaRAT",
             "Medium"
         ],
-        "views": 160,
+        "views": 164,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:42:42.091922"
+        "crawl_date": "2025-07-26T05:32:30.035399"
     },
     {
         "post_id": "12672",
@@ -3641,10 +3941,10 @@
             "CVE-2025-29891",
             "Palo Alto"
         ],
-        "views": 169,
+        "views": 176,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:42.214002"
+        "crawl_date": "2025-07-26T05:32:30.198711"
     },
     {
         "post_id": "12665",
@@ -3662,10 +3962,10 @@
             "PteroStew",
             "Spear Phishing"
         ],
-        "views": 158,
+        "views": 162,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:42.345386"
+        "crawl_date": "2025-07-26T05:32:30.377357"
     },
     {
         "post_id": "12664",
@@ -3680,10 +3980,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 140,
+        "views": 145,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:42.476327"
+        "crawl_date": "2025-07-26T05:32:30.536138"
     },
     {
         "post_id": "12663",
@@ -3697,10 +3997,10 @@
             "Arctic Wolf Labs",
             "Oyster"
         ],
-        "views": 145,
+        "views": 150,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:42.590413"
+        "crawl_date": "2025-07-26T05:32:30.684199"
     },
     {
         "post_id": "12657",
@@ -3714,10 +4014,10 @@
             "1275 Research",
             "Phishing"
         ],
-        "views": 141,
+        "views": 146,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:42.704033"
+        "crawl_date": "2025-07-26T05:32:30.844605"
     },
     {
         "post_id": "12652",
@@ -3731,10 +4031,10 @@
             "Cofense Phishing Defense Center",
             "Phishing"
         ],
-        "views": 132,
+        "views": 137,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:42.815422"
+        "crawl_date": "2025-07-26T05:32:31.002103"
     },
     {
         "post_id": "12651",
@@ -3747,10 +4047,10 @@
         "tags": [
             "Palo Alto"
         ],
-        "views": 129,
+        "views": 134,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:48.259783"
+        "crawl_date": "2025-07-26T05:32:31.158289"
     },
     {
         "post_id": "12650",
@@ -3764,10 +4064,10 @@
             "NimDoor",
             "Sentinelone"
         ],
-        "views": 146,
+        "views": 152,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:48.372345"
+        "crawl_date": "2025-07-26T05:32:31.311063"
     },
     {
         "post_id": "12649",
@@ -3781,10 +4081,10 @@
             "Group-IB",
             "Qwizzserial"
         ],
-        "views": 123,
+        "views": 128,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:42:48.485046"
+        "crawl_date": "2025-07-26T05:32:31.457759"
     },
     {
         "post_id": "12647",
@@ -3803,10 +4103,10 @@
             "CVE-2024-9380",
             "Houken"
         ],
-        "views": 134,
+        "views": 139,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:48.626646"
+        "crawl_date": "2025-07-26T05:32:36.850493"
     },
     {
         "post_id": "12646",
@@ -3819,10 +4119,10 @@
         "tags": [
             "AhnLab SEcurity intelligence Center (ASEC)"
         ],
-        "views": 121,
+        "views": 126,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:48.733431"
+        "crawl_date": "2025-07-26T05:32:37.012394"
     },
     {
         "post_id": "12643",
@@ -3838,10 +4138,10 @@
             "Genians Security Center",
             "RokRAT"
         ],
-        "views": 115,
+        "views": 120,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:48.855441"
+        "crawl_date": "2025-07-26T05:32:37.182866"
     },
     {
         "post_id": "12642",
@@ -3856,10 +4156,10 @@
             "Genians Security Center",
             "Kimsuky"
         ],
-        "views": 140,
+        "views": 145,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:48.977139"
+        "crawl_date": "2025-07-26T05:32:37.336972"
     },
     {
         "post_id": "12641",
@@ -3873,10 +4173,10 @@
             "K7 Labs",
             "Stealer"
         ],
-        "views": 121,
+        "views": 126,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:42:49.085053"
+        "crawl_date": "2025-07-26T05:32:37.501960"
     },
     {
         "post_id": "12640",
@@ -3891,10 +4191,10 @@
             "S2 Group",
             "SnakeKeylogger"
         ],
-        "views": 131,
+        "views": 136,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:49.227175"
+        "crawl_date": "2025-07-26T05:32:37.795156"
     },
     {
         "post_id": "12638",
@@ -3909,10 +4209,10 @@
             "Genians Security Center",
             "Kimsuky"
         ],
-        "views": 134,
+        "views": 141,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:49.344160"
+        "crawl_date": "2025-07-26T05:32:37.973930"
     },
     {
         "post_id": "12637",
@@ -3927,10 +4227,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 115,
+        "views": 120,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:53.010433"
+        "crawl_date": "2025-07-26T05:32:38.129529"
     },
     {
         "post_id": "12631",
@@ -3945,10 +4245,10 @@
             "FortiGuard Labs",
             "Phishing"
         ],
-        "views": 122,
+        "views": 127,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:42:53.133602"
+        "crawl_date": "2025-07-26T05:32:38.288307"
     },
     {
         "post_id": "12627",
@@ -3962,10 +4262,10 @@
             "APT",
             "Intrinsec Security"
         ],
-        "views": 126,
+        "views": 130,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:53.247150"
+        "crawl_date": "2025-07-26T05:32:38.436389"
     },
     {
         "post_id": "12624",
@@ -3978,10 +4278,10 @@
         "tags": [
             "Sucuri"
         ],
-        "views": 115,
+        "views": 120,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:53.353868"
+        "crawl_date": "2025-07-26T05:32:43.078140"
     },
     {
         "post_id": "12623",
@@ -3995,10 +4295,10 @@
             "Phishing",
             "UserGate uFactor"
         ],
-        "views": 118,
+        "views": 123,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:53.466558"
+        "crawl_date": "2025-07-26T05:32:43.230989"
     },
     {
         "post_id": "12622",
@@ -4013,10 +4313,10 @@
             "DEVMAN",
             "Ransomware"
         ],
-        "views": 134,
+        "views": 138,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:42:53.584154"
+        "crawl_date": "2025-07-26T05:32:43.392912"
     },
     {
         "post_id": "12620",
@@ -4029,10 +4329,10 @@
         "tags": [
             "Dr.Web"
         ],
-        "views": 116,
+        "views": 122,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:53.690481"
+        "crawl_date": "2025-07-26T05:32:43.556453"
     },
     {
         "post_id": "12612",
@@ -4049,10 +4349,10 @@
             "TransferLoader",
             "UNK_GreenSec"
         ],
-        "views": 111,
+        "views": 116,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:53.821549"
+        "crawl_date": "2025-07-26T05:32:43.727558"
     },
     {
         "post_id": "12611",
@@ -4065,10 +4365,10 @@
         "tags": [
             "Palo Alto"
         ],
-        "views": 124,
+        "views": 129,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:53.928125"
+        "crawl_date": "2025-07-26T05:32:43.867985"
     },
     {
         "post_id": "12610",
@@ -4083,10 +4383,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 114,
+        "views": 119,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:42:54.043990"
+        "crawl_date": "2025-07-26T05:32:44.025224"
     },
     {
         "post_id": "12599",
@@ -4101,10 +4401,10 @@
             "CVE-2025-4679",
             "ModZero"
         ],
-        "views": 123,
+        "views": 128,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:42:59.422604"
+        "crawl_date": "2025-07-26T05:32:44.188624"
     },
     {
         "post_id": "12598",
@@ -4118,10 +4418,10 @@
             "Forcepoint",
             "RemCos"
         ],
-        "views": 83,
+        "views": 88,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/05/obosnovanie-zakupki-sredstv-zashchity-informacii.png.webp",
-        "crawl_date": "2025-07-24T18:42:59.533939"
+        "crawl_date": "2025-07-26T05:32:44.336755"
     },
     {
         "post_id": "12595",
@@ -4138,10 +4438,10 @@
             "Phishing",
             "PubLoad"
         ],
-        "views": 83,
+        "views": 88,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:42:59.664868"
+        "crawl_date": "2025-07-26T05:32:44.504669"
     },
     {
         "post_id": "12594",
@@ -4155,10 +4455,10 @@
             "AhnLab SEcurity intelligence Center (ASEC)",
             "Ransomware"
         ],
-        "views": 88,
+        "views": 93,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:42:59.780380"
+        "crawl_date": "2025-07-26T05:32:50.556869"
     },
     {
         "post_id": "12593",
@@ -4172,10 +4472,10 @@
             "Netskope Threat Labs",
             "Phishing"
         ],
-        "views": 86,
+        "views": 91,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:42:59.897498"
+        "crawl_date": "2025-07-26T05:32:50.703392"
     },
     {
         "post_id": "12592",
@@ -4190,10 +4490,10 @@
             "Netskope Threat Labs",
             "Silver Fox"
         ],
-        "views": 120,
+        "views": 129,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:43:00.030307"
+        "crawl_date": "2025-07-26T05:32:50.860594"
     },
     {
         "post_id": "12586",
@@ -4209,10 +4509,10 @@
             "Ransomware",
             "Trustwave SpiderLabs"
         ],
-        "views": 93,
+        "views": 99,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:00.153369"
+        "crawl_date": "2025-07-26T05:32:51.039567"
     },
     {
         "post_id": "12585",
@@ -4227,10 +4527,10 @@
             "Kudelski Security",
             "Lunar Spider"
         ],
-        "views": 91,
+        "views": 96,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:00.268831"
+        "crawl_date": "2025-07-26T05:32:51.195471"
     },
     {
         "post_id": "12584",
@@ -4245,10 +4545,10 @@
             "APT-C-36",
             "Trustwave SpiderLabs"
         ],
-        "views": 82,
+        "views": 87,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:00.387502"
+        "crawl_date": "2025-07-26T05:32:51.355838"
     },
     {
         "post_id": "12583",
@@ -4264,10 +4564,10 @@
             "RansomHub",
             "Ransomware"
         ],
-        "views": 88,
+        "views": 93,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:43:00.509319"
+        "crawl_date": "2025-07-26T05:32:51.528547"
     },
     {
         "post_id": "12582",
@@ -4282,10 +4582,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 79,
+        "views": 84,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:43:05.324844"
+        "crawl_date": "2025-07-26T05:32:51.692018"
     },
     {
         "post_id": "12581",
@@ -4302,10 +4602,10 @@
             "Dark Atlas",
             "Kimsuky"
         ],
-        "views": 84,
+        "views": 92,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:05.452609"
+        "crawl_date": "2025-07-26T05:32:51.863060"
     },
     {
         "post_id": "12579",
@@ -4322,10 +4622,10 @@
             "Darktrace Threat Research",
             "Phishing"
         ],
-        "views": 87,
+        "views": 91,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:05.580869"
+        "crawl_date": "2025-07-26T05:32:52.029414"
     },
     {
         "post_id": "12570",
@@ -4340,10 +4640,10 @@
             "Picus Security",
             "Ransomware"
         ],
-        "views": 81,
+        "views": 86,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:43:05.699605"
+        "crawl_date": "2025-07-26T05:32:58.358829"
     },
     {
         "post_id": "12559",
@@ -4359,10 +4659,10 @@
             "F6 Threat Intelligence",
             "Werewolves"
         ],
-        "views": 102,
+        "views": 107,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:05.821965"
+        "crawl_date": "2025-07-26T05:32:58.537696"
     },
     {
         "post_id": "12558",
@@ -4376,10 +4676,10 @@
             "Palo Alto",
             "Phishing"
         ],
-        "views": 81,
+        "views": 86,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:05.934892"
+        "crawl_date": "2025-07-26T05:32:58.787183"
     },
     {
         "post_id": "12557",
@@ -4394,10 +4694,10 @@
             "MeshAgent",
             "Supershell"
         ],
-        "views": 80,
+        "views": 86,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:06.053768"
+        "crawl_date": "2025-07-26T05:32:58.953735"
     },
     {
         "post_id": "12556",
@@ -4412,10 +4712,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 95,
+        "views": 101,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:43:06.169273"
+        "crawl_date": "2025-07-26T05:32:59.110938"
     },
     {
         "post_id": "12554",
@@ -4431,10 +4731,10 @@
             "Phishing",
             "Stealer"
         ],
-        "views": 103,
+        "views": 108,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:43:06.289834"
+        "crawl_date": "2025-07-26T05:32:59.281980"
     },
     {
         "post_id": "12553",
@@ -4450,10 +4750,10 @@
             "RunnerBeacon",
             "Trellix Advanced Research"
         ],
-        "views": 100,
+        "views": 105,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:06.411344"
+        "crawl_date": "2025-07-26T05:32:59.446850"
     },
     {
         "post_id": "12552",
@@ -4467,10 +4767,10 @@
             "Cofense Phishing Defense Center",
             "Phishing"
         ],
-        "views": 96,
+        "views": 101,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:12.283780"
+        "crawl_date": "2025-07-26T05:32:59.599563"
     },
     {
         "post_id": "12551",
@@ -4484,10 +4784,10 @@
             "CERT-AGID (Italiya)",
             "Phishing"
         ],
-        "views": 88,
+        "views": 93,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:12.395142"
+        "crawl_date": "2025-07-26T05:32:59.752168"
     },
     {
         "post_id": "12550",
@@ -4501,10 +4801,10 @@
             "Phishing",
             "Varonis Threat Labs"
         ],
-        "views": 110,
+        "views": 115,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:12.508106"
+        "crawl_date": "2025-07-26T05:32:59.901726"
     },
     {
         "post_id": "12549",
@@ -4519,10 +4819,10 @@
             "Odyssey",
             "Stealer"
         ],
-        "views": 101,
+        "views": 105,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:43:12.625148"
+        "crawl_date": "2025-07-26T05:33:05.306431"
     },
     {
         "post_id": "12548",
@@ -4535,10 +4835,10 @@
         "tags": [
             "F6 Threat Intelligence"
         ],
-        "views": 92,
+        "views": 98,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:12.733199"
+        "crawl_date": "2025-07-26T05:33:05.476670"
     },
     {
         "post_id": "12544",
@@ -4553,10 +4853,10 @@
             "Palo Alto",
             "Ransomware"
         ],
-        "views": 99,
+        "views": 105,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:43:12.851588"
+        "crawl_date": "2025-07-26T05:33:05.699178"
     },
     {
         "post_id": "12543",
@@ -4570,10 +4870,10 @@
             "Palo Alto",
             "Phishing"
         ],
-        "views": 109,
+        "views": 114,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:12.962655"
+        "crawl_date": "2025-07-26T05:33:05.901420"
     },
     {
         "post_id": "12542",
@@ -4587,10 +4887,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 112,
+        "views": 117,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:43:13.075516"
+        "crawl_date": "2025-07-26T05:33:06.160471"
     },
     {
         "post_id": "12541",
@@ -4606,10 +4906,10 @@
             "Educated Manticore",
             "Phishing"
         ],
-        "views": 110,
+        "views": 115,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:13.199354"
+        "crawl_date": "2025-07-26T05:33:06.342635"
     },
     {
         "post_id": "12539",
@@ -4624,10 +4924,10 @@
             "CVE-2023-36934",
             "GreyNoise"
         ],
-        "views": 101,
+        "views": 107,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:13.314863"
+        "crawl_date": "2025-07-26T05:33:06.561487"
     },
     {
         "post_id": "12538",
@@ -4641,10 +4941,10 @@
             "Check Point Research",
             "Skynet"
         ],
-        "views": 105,
+        "views": 109,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:18.334514"
+        "crawl_date": "2025-07-26T05:33:06.789811"
     },
     {
         "post_id": "12537",
@@ -4661,10 +4961,10 @@
             "Knownsec",
             "Wooperstealer"
         ],
-        "views": 94,
+        "views": 99,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:18.462189"
+        "crawl_date": "2025-07-26T05:33:07.172090"
     },
     {
         "post_id": "12536",
@@ -4678,10 +4978,10 @@
             "Microsoft Security Threat Intelligence",
             "SonicWall"
         ],
-        "views": 82,
+        "views": 87,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:18.573322"
+        "crawl_date": "2025-07-26T05:33:07.401831"
     },
     {
         "post_id": "12413",
@@ -4694,10 +4994,10 @@
         "tags": [
             "ACIDBOX"
         ],
-        "views": 69,
+        "views": 74,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:18.683202"
+        "crawl_date": "2025-07-26T05:33:13.776613"
     },
     {
         "post_id": "12393",
@@ -4713,10 +5013,10 @@
             "Vidar",
             "Zscaler ThreatLabz"
         ],
-        "views": 76,
+        "views": 81,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:18.807767"
+        "crawl_date": "2025-07-26T05:33:14.485108"
     },
     {
         "post_id": "12392",
@@ -4730,10 +5030,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 66,
+        "views": 71,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:43:18.920348"
+        "crawl_date": "2025-07-26T05:33:14.819140"
     },
     {
         "post_id": "12391",
@@ -4751,10 +5051,10 @@
             "Palo Alto",
             "PoshC2"
         ],
-        "views": 68,
+        "views": 74,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:19.054295"
+        "crawl_date": "2025-07-26T05:33:15.096477"
     },
     {
         "post_id": "12390",
@@ -4770,10 +5070,10 @@
             "Stealer",
             "XWorm"
         ],
-        "views": 75,
+        "views": 80,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:43:19.177549"
+        "crawl_date": "2025-07-26T05:33:15.387738"
     },
     {
         "post_id": "12387",
@@ -4787,10 +5087,10 @@
             "FortiGuard Labs",
             "Havoc"
         ],
-        "views": 74,
+        "views": 79,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:19.291649"
+        "crawl_date": "2025-07-26T05:33:15.614776"
     },
     {
         "post_id": "12385",
@@ -4806,10 +5106,10 @@
             "SecurityScorecard",
             "ShortLeash"
         ],
-        "views": 66,
+        "views": 72,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:19.416244"
+        "crawl_date": "2025-07-26T05:33:15.935520"
     },
     {
         "post_id": "12384",
@@ -4822,10 +5122,10 @@
         "tags": [
             "Wordfence Threat Intelligence"
         ],
-        "views": 52,
+        "views": 57,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:24.937694"
+        "crawl_date": "2025-07-26T05:33:16.147348"
     },
     {
         "post_id": "12382",
@@ -4839,10 +5139,10 @@
             "CVE-2017-17761",
             "SANS Internet Storm Center"
         ],
-        "views": 53,
+        "views": 59,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/iot.png.webp",
-        "crawl_date": "2025-07-24T18:43:25.049345"
+        "crawl_date": "2025-07-26T05:33:16.365331"
     },
     {
         "post_id": "12381",
@@ -4857,10 +5157,10 @@
             "APT36",
             "CYFIRMA Research"
         ],
-        "views": 75,
+        "views": 80,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:25.166261"
+        "crawl_date": "2025-07-26T05:33:16.584902"
     },
     {
         "post_id": "12380",
@@ -4875,10 +5175,10 @@
             "NICTER Analysis Team",
             "RapperBot"
         ],
-        "views": 61,
+        "views": 66,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png.webp",
-        "crawl_date": "2025-07-24T18:43:25.284696"
+        "crawl_date": "2025-07-26T05:33:22.058951"
     },
     {
         "post_id": "12379",
@@ -4894,10 +5194,10 @@
             "Kimsuky",
             "XenoRAT"
         ],
-        "views": 74,
+        "views": 80,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:25.408058"
+        "crawl_date": "2025-07-26T05:33:22.408736"
     },
     {
         "post_id": "12378",
@@ -4913,10 +5213,10 @@
             "Recorded Future",
             "TAG-140"
         ],
-        "views": 76,
+        "views": 82,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:25.531030"
+        "crawl_date": "2025-07-26T05:33:22.693965"
     },
     {
         "post_id": "12377",
@@ -4930,10 +5230,10 @@
             "Botnet",
             "Mirai"
         ],
-        "views": 70,
+        "views": 75,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:43:25.642042"
+        "crawl_date": "2025-07-26T05:33:22.894865"
     },
     {
         "post_id": "12342",
@@ -4953,10 +5253,10 @@
             "VenomRAT",
             "XWorm"
         ],
-        "views": 94,
+        "views": 100,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:25.783602"
+        "crawl_date": "2025-07-26T05:33:23.192505"
     },
     {
         "post_id": "12341",
@@ -4971,10 +5271,10 @@
             "CVE-2024-1709",
             "GDATA"
         ],
-        "views": 62,
+        "views": 67,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:25.903869"
+        "crawl_date": "2025-07-26T05:33:23.428774"
     },
     {
         "post_id": "12340",
@@ -4992,10 +5292,10 @@
             "COVENANT",
             "SLIMAGENT"
         ],
-        "views": 91,
+        "views": 98,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:26.034404"
+        "crawl_date": "2025-07-26T05:33:23.729504"
     },
     {
         "post_id": "12339",
@@ -5010,10 +5310,10 @@
             "SparkCat",
             "SparkKitty"
         ],
-        "views": 70,
+        "views": 75,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/07/backdoor.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:31.071275"
+        "crawl_date": "2025-07-26T05:33:23.951900"
     },
     {
         "post_id": "12338",
@@ -5031,10 +5331,10 @@
             "SuperCard X",
             "Tria"
         ],
-        "views": 70,
+        "views": 75,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:31.204902"
+        "crawl_date": "2025-07-26T05:33:24.378374"
     },
     {
         "post_id": "12337",
@@ -5049,302 +5349,9 @@
             "Stealer",
             "WorldWind"
         ],
-        "views": 58,
+        "views": 63,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:43:31.337621"
-    },
-    {
-        "post_id": "12336",
-        "title": "Киберпреступники используют поддельные уведомления от Социального обеспечения для распространения вредоносного ПО среди 2000 жертв",
-        "url": "https://1275.ru/ioc/kiberprestupniki-ispolzuyut-poddelnye-uvedomleniya-ot-sotsialnogo-obespecheniya-dlya-rasprostraneniya-vredonosnogo-po-sredi-2000-zhertv_12336",
-        "description": "Аналитики компании CyberArmor обнаружили новую масштабную фишинговую кампанию, в ходе которой злоумышленники рассылали поддельные уведомления от Социального обеспечения (SSA), чтобы обмануть более 2000",
-        "author": "SEC-1275",
-        "date": "23.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "CyberArmor",
-            "Phishing"
-        ],
-        "views": 46,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:31.448790"
-    },
-    {
-        "post_id": "12333",
-        "title": "Киберпреступники используют платформу Vercel для распространения вредоносного ПО удаленного доступа",
-        "url": "https://1275.ru/ioc/kiberprestupniki-ispolzuyut-platformu-vercel-dlya-rasprostraneniya-vredonosnogo-po-udalennogo-dostupa_12333",
-        "description": "Специалисты компании CyberArmor обнаружили новую фишинговую кампанию, в рамках которой злоумышленники используют популярную платформу для хостинга веб-приложений Vercel с целью распространения модифицированной версии программы LogMeIn.",
-        "author": "SEC-1275",
-        "date": "23.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "CyberArmor",
-            "Phishing"
-        ],
-        "views": 51,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:31.561513"
-    },
-    {
-        "post_id": "12332",
-        "title": "Критическая уязвимость в теме Motors для WordPress активно эксплуатируется: более 22 000 сайтов под угрозой взлома",
-        "url": "https://1275.ru/ioc/kriticheskaya-uyazvimost-v-teme-motors-dlya-wordpress-aktivno-ekspluatiruetsya-bolee-22-000-saytov-pod-ugrozoy-vzloma_12332",
-        "description": "Компания Wordfence, специализирующаяся на безопасности WordPress, предупредила о массовой эксплуатации критической уязвимости в популярной теме Motors. Эта тема, насчитывающая свыше 22 000 активных установок",
-        "author": "SEC-1275",
-        "date": "23.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "CVE-2025-4322",
-            "Wordfence Threat Intelligence"
-        ],
-        "views": 53,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:31.672530"
-    },
-    {
-        "post_id": "12331",
-        "title": "AsyncRAT: Как киберпреступники обходят защиту и крадут данные",
-        "url": "https://1275.ru/ioc/asyncrat-kak-kiberprestupniki-obhodyat-zaschitu-i-kradut-dannye_12331",
-        "description": "Кибербезопасность остается одной из самых актуальных тем в современном цифровом мире, и новое исследование компании Halcyon подтверждает, что злоумышленники продолжают совершенствовать свои методы атак.",
-        "author": "SEC-1275",
-        "date": "23.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "AsyncRAT",
-            "Halcyon",
-            "Phishing",
-            "RemCos",
-            "VenomRAT",
-            "XWorm"
-        ],
-        "views": 45,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png.webp",
-        "crawl_date": "2025-07-24T18:43:31.806609"
-    },
-    {
-        "post_id": "12329",
-        "title": "Фишинг в Steam: мошенники продолжают охоту на игроков",
-        "url": "https://1275.ru/ioc/fishing-v-steam-moshenniki-prodolzhayut-ohotu-na-igrokov_12329",
-        "description": "Недавно один из пользователей Steam столкнулся с классической фишинговой атакой, которая напомнила всем о необходимости быть бдительными в цифровом пространстве.",
-        "author": "SEC-1275",
-        "date": "23.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Phishing"
-        ],
-        "views": 135,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:31.914665"
-    },
-    {
-        "post_id": "12327",
-        "title": "Киберпреступники распространяют вредоносное ПО под видом взломанных версий популярного софта",
-        "url": "https://1275.ru/ioc/kiberprestupniki-rasprostranyayut-vredonosnoe-po-pod-vidom-vzlomannyh-versiy-populyarnogo-softa_12327",
-        "description": "Киберпреступники активно используют социальные сети для распространения вредоносного программного обеспечения, маскируя его под взломанные версии популярного программного обеспечения.",
-        "author": "SEC-1275",
-        "date": "23.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Palo Alto"
-        ],
-        "views": 70,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:32.019847"
-    },
-    {
-        "post_id": "12326",
-        "title": "Индикаторы компрометации ботнета Mirai (обновление за 23.06.2025)",
-        "url": "https://1275.ru/ioc/indikatory-komprometatsii-botneta-mirai-obnovlenie-za-23-06-2025_12326",
-        "description": "Mirai - один из первых значительных ботнетов, нацеленных на открытые сетевые устройства под управлением Linux.",
-        "author": "SEC-1275",
-        "date": "23.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Botnet",
-            "Mirai"
-        ],
-        "views": 67,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/07/botnet-e1745505760122.png.webp",
-        "crawl_date": "2025-07-24T18:43:32.131127"
-    },
-    {
-        "post_id": "12324",
-        "title": "BlueNoroff атакует через поддельные Zoom-звонки: как хакеры крадут данные жертв",
-        "url": "https://1275.ru/ioc/bluenoroff-atakuet-cherez-poddelnye-zoom-zvonki-kak-hakery-kradut-dannye-zhertv_12324",
-        "description": "Группа BlueNoroff, связанная с северокорейским APT-кластером Lazarus, продолжает активно атаковать компании в сфере криптовалют и онлайн-гемблинга. В ходе расследования инцидента с канадским провайдером",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "APT",
-            "BlueNoroff",
-            "Field Effect"
-        ],
-        "views": 58,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png.webp",
-        "crawl_date": "2025-07-24T18:43:37.467046"
-    },
-    {
-        "post_id": "12321",
-        "title": "Опасное приложение-ловушка: как SpyMax крадет деньги у пользователей в Индии под видом свадебного приглашения",
-        "url": "https://1275.ru/ioc/opasnoe-prilozhenie-lovushka-kak-spymax-kradet-dengi-u-polzovateley-v-indii-pod-vidom-svadebnogo-priglasheniya_12321",
-        "description": "В последнее время участились случаи мошенничества, связанные с вредоносными приложениями для Android. Один из таких инцидентов произошел с пользователем, не являющимся клиентом K7, который установил APK-файл, полученный через WhatsApp.",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "K7 Labs"
-        ],
-        "views": 67,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:37.573552"
-    },
-    {
-        "post_id": "12320",
-        "title": "Возрождение ботнета Prometei: новая волна атак на Linux-системы",
-        "url": "https://1275.ru/ioc/vozrozhdenie-botneta-prometei-novaya-volna-atak-na-linux-sistemy_12320",
-        "description": "В марте 2025 года исследователи кибербезопасности из Unit 42 зафиксировали новую волну активности ботнета Prometei, который использует одноименное семейство вредоносного ПО для контроля зараженных систем.",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Botnet",
-            "Palo Alto",
-            "Prometei"
-        ],
-        "views": 66,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png.webp",
-        "crawl_date": "2025-07-24T18:43:37.690613"
-    },
-    {
-        "post_id": "12308",
-        "title": "Sерреntine#Cloud: Новый Вирус Использует Cloudflare Tunnels для Скрытой Доставки Python-Малвари",
-        "url": "https://1275.ru/ioc/serrentine-cloud-novyy-virus-ispolzuet-cloudflare-tunnels-dlya-skrytoy-dostavki-python-malvari_12308",
-        "description": "Группа исследователей кибербезопасности Securonix обнаружила новую скрытую кампанию под названием SERPENTINE#CLOUD, в рамках которой злоумышленники используют файлы ярлыков (.",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Securonix"
-        ],
-        "views": 65,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:37.798524"
-    },
-    {
-        "post_id": "12307",
-        "title": "Злоумышленники используют LogMeIn для удаленного доступа к системам жертв",
-        "url": "https://1275.ru/ioc/zloumyshlenniki-ispolzuyut-logmein-dlya-udalennogo-dostupa-k-sistemam-zhertv_12307",
-        "description": "Свежая волна кибератак привлекла внимание экспертов по информационной безопасности. На этот раз злоумышленники используют популярное решение для удаленного доступа LogMeIn Resolve, чтобы получать контроль над компьютерами пользователей.",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Trustwave SpiderLabs"
-        ],
-        "views": 52,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:37.904967"
-    },
-    {
-        "post_id": "12306",
-        "title": "Киберпреступники активно используют Cobalt Strike PowerShell-загрузчики на китайской и российской инфраструктуре",
-        "url": "https://1275.ru/ioc/kiberprestupniki-aktivno-ispolzuyut-cobalt-strike-powershell-zagruzchiki-na-kitayskoy-i-rossiyskoy-infrastrukture_12306",
-        "description": "В ходе мониторинга киберугроз исследователи Hunt Intelligence обнаружили подозрительный PowerShell-скрипт (y1.ps1), размещённый в открытом доступе на сервере в Китае (IP: 123.",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Cobalt Strike",
-            "Hunt Intelligence"
-        ],
-        "views": 66,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png.webp",
-        "crawl_date": "2025-07-24T18:43:38.016007"
-    },
-    {
-        "post_id": "12305",
-        "title": "Опасный инфостилер маскируется под документы о нарушении авторских прав в Южной Корее",
-        "url": "https://1275.ru/ioc/opasnyy-infostiler-maskiruetsya-pod-dokumenty-o-narushenii-avtorskih-prav-v-yuzhnoy-koree_12305",
-        "description": "Компания AhnLab Security Intelligence Center (ASEC) зафиксировала новый способ распространения вредоносного ПО в Южной Корее. Злоумышленники рассылают письма, в которых убеждают получателей загрузить доказательства нарушений авторских прав.",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "AhnLab SEcurity intelligence Center (ASEC)",
-            "Rhadamanthys",
-            "Stealer"
-        ],
-        "views": 67,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png.webp",
-        "crawl_date": "2025-07-24T18:43:38.133042"
-    },
-    {
-        "post_id": "12304",
-        "title": "GodFather: новый уровень угрозы для мобильных банковских приложений через виртуализацию",
-        "url": "https://1275.ru/ioc/godfather-novyy-uroven-ugrozy-dlya-mobilnyh-bankovskih-prilozheniy-cherez-virtualizatsiyu_12304",
-        "description": "Исследователи из Zimperium zLabs выявили новую эволюцию банковского трояна GodFather, который теперь использует передовую технологию виртуализации для кражи данных пользователей.",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Banking Trojan",
-            "Godfather",
-            "Zimperium zLabs"
-        ],
-        "views": 68,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/01/banking-trojan-761x400.png.webp",
-        "crawl_date": "2025-07-24T18:43:38.253266"
-    },
-    {
-        "post_id": "12303",
-        "title": "SpyNote в открытых директориях: как вредоносное ПО маскируется под популярные приложения",
-        "url": "https://1275.ru/ioc/spynote-v-otkrytyh-direktoriyah-kak-vredonosnoe-po-maskiruetsya-pod-populyarnye-prilozheniya_12303",
-        "description": "В последние годы открытые каталоги в интернете стали не только хранилищами случайных файлов, но и потенциальными источниками угроз. Hunt Intelligence обнаружила, что злоумышленники активно размещают образцы",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Hunt Intelligence",
-            "SpyNote"
-        ],
-        "views": 66,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/07/backdoor.jpg.webp",
-        "crawl_date": "2025-07-24T18:43:38.364334"
-    },
-    {
-        "post_id": "12302",
-        "title": "Новая угроза в мире кибербезопасности: BERT Ransomware атакует Windows и Linux",
-        "url": "https://1275.ru/ioc/novaya-ugroza-v-mire-kiberbezopasnosti-bert-ransomware-atakuet-windows-i-linux_12302",
-        "description": "В мире информационной безопасности появилась новая серьезная угроза - BERT Ransomware. Хотя первые упоминания об этой вредоносной программе появились еще в апреле 2025 года, активность группировки была зафиксирована уже в середине марта.",
-        "author": "SEC-1275",
-        "date": "20.06.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "BERT",
-            "Ransomware",
-            "Raven File (TRF)"
-        ],
-        "views": 70,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png.webp",
-        "crawl_date": "2025-07-24T18:43:38.479904"
+        "crawl_date": "2025-07-26T05:33:24.618879"
     }
 ]

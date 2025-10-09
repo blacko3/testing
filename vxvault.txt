@@ -1,7 +1,8 @@
 <pre>
 VX Vault last 100 Links
-Mon, 29 Sep 2025 16:57:33 +0000
+Thu, 09 Oct 2025 19:54:28 +0000
 
+http://178.16.55.189/files/7968590541/T7V02QZ.exe
 http://185.238.191.89:5554/beba.exe
 http://94.154.34.240:8000/Muzul.exe
 http://94.154.34.240:8000/Manya.exe
@@ -102,5 +103,4 @@ http://91.92.246.18/upl/t2.exe
 http://91.92.246.18/upl/t1.exe
 http://45.66.231.213/x86
 http://45.66.231.148/ppc
-http://45.66.231.148/arm7
 </pre>

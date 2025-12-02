@@ -1,5 +1,929 @@
 [
     {
+        "post_id": "16706",
+        "title": "Tycoon 2FA: платформа для обхода двухфакторной аутентификации набирает популярность среди киберпреступников",
+        "url": "https://1275.ru/ioc/tycoon-2fa-platforma-dlya-obhoda-dvuhfaktornoy-autentifikatsii-nabiraet-populyarnost-sredi-kiberprestupnikov_16706",
+        "description": "По данным мониторинга угроз компании CYFIRMA, платформа Tycoon 2FA идентифицирована как одна из самых продвинутых и активно используемых услуг «фишинг как услуга» (PhaaS), нацеленная на корпоративные облачные среды.",
+        "author": "SEC-1275",
+        "date": "02.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "CYFIRMA Research",
+            "Tycoon 2FA",
+            "YARA Rules"
+        ],
+        "views": 14,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
+        "crawl_date": "2025-12-02T10:10:48.031629"
+    },
+    {
+        "post_id": "16756",
+        "title": "Популярный клиент YouTube для Android TV оказался скомпрометирован: в обновление внедрили скрытую библиотеку для сбора данных",
+        "url": "https://1275.ru/ioc/populyarnyy-klient-youtube-dlya-android-tv-okazalsya-skomprometirovan-v-obnovlenie-vnedrili-skrytuyu-biblioteku-dlya-sbora-dannyh_16756",
+        "description": "Известный сторонний клиент YouTube для платформ Android TV и Fire TV под названием SmartTube стал жертвой целенаправленной атаки. Злоумышленникам удалось завладеть цифровыми ключами подписи разработчика",
+        "author": "SEC-1275",
+        "date": "02.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [],
+        "views": 21,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:10:48.213413"
+    },
+    {
+        "post_id": "16705",
+        "title": "Kimsuky продолжают эволюцию вредоносного ПО KimJongRAT в атаках на Южную Корею",
+        "url": "https://1275.ru/ioc/kimsuky-prodolzhayut-evolyutsiyu-vredonosnogo-po-kimjongrat-v-atakah-na-yuzhnuyu-koreyu_16705",
+        "description": "Группа хакеров Kimsuky активно развивает семейство вредоносного ПО KimJongRAT, которое используется для целевых атак на южнокорейские организации с 2010-х годов.",
+        "author": "SEC-1275",
+        "date": "02.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "ENKI WhiteHat",
+            "KimJongRAT",
+            "Kimsuky"
+        ],
+        "views": 19,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:10:48.429814"
+    },
+    {
+        "post_id": "16704",
+        "title": "Две хакерские группы атаковали российские компании, используя уязвимости в Microsoft и Ivanti",
+        "url": "https://1275.ru/ioc/dve-hakerskie-gruppy-atakovali-rossiyskie-kompanii-ispolzuya-uyazvimosti-v-microsoft-i-ivanti_16704",
+        "description": "Специалисты по кибербезопасности Positive Technologies обнаружили сложные целевые атаки на российские компании, которые проводят две различные хакерские группы - QuietCrabs и Thor.",
+        "author": "SEC-1275",
+        "date": "02.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "CVE-2025-4427",
+            "CVE-2025-4428",
+            "CVE-2025-53770",
+            "Positive Technologies",
+            "Thor",
+            "UNC5221",
+            "YARA Rules"
+        ],
+        "views": 24,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:10:48.759397"
+    },
+    {
+        "post_id": "16703",
+        "title": "Обнаружена новая волна атак на цепочку поставок NPM под названием Sha1-Hulud",
+        "url": "https://1275.ru/ioc/obnaruzhena-novaya-volna-atak-na-tsepochku-postavok-npm-pod-nazvaniem-sha1-hulud_16703",
+        "description": "Эксперты по кибербезопасности из SentinelOne предупредили о масштабной эскалации атак на цепочку поставок NPM (Node Package Manager). Новая версия вредоносной программы Sha1-Hulud, получившая название",
+        "author": "SEC-1275",
+        "date": "02.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Sentinelone",
+            "Shai-Hulud"
+        ],
+        "views": 30,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:10:49.042260"
+    },
+    {
+        "post_id": "16700",
+        "title": "Кибермошенники активизируются в сезон распродаж",
+        "url": "https://1275.ru/ioc/kibermoshenniki-aktiviziruyutsya-v-sezon-rasprodazh_16700",
+        "description": "Компания Darktrace зафиксировала резкий рост фишинговых кампаний, приуроченных к Черной пятнице. Злоумышленники используют бренды Amazon, Louis Vuitton и люксовых часовых ритейлеров для обмана потребителей.",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Darktrace Threat Research"
+        ],
+        "views": 54,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
+        "crawl_date": "2025-12-02T10:10:49.258362"
+    },
+    {
+        "post_id": "16698",
+        "title": "Киберпреступники активизировали усовершенствованный ботнет MooBot для DDoS-атак",
+        "url": "https://1275.ru/ioc/kiberprestupniki-aktivizirovali-usovershenstvovannyy-botnet-moobot-dlya-ddos-atak_16698",
+        "description": "Группа хакеров возобновила активность ботнета MooBot, который демонстрирует сложные техники обфускации и целенаправленные атаки на инфраструктуру России. Согласно данным мониторинга, с 10 сентября 2025",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "MooBot",
+            "NICTER Analysis Team"
+        ],
+        "views": 79,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png",
+        "crawl_date": "2025-12-02T10:10:49.476596"
+    },
+    {
+        "post_id": "16697",
+        "title": "Группа Tomiris обновила арсенал: многоязычные вредоносные программы атакуют правительственные структуры",
+        "url": "https://1275.ru/ioc/gruppa-tomiris-obnovila-arsenal-mnogoyazychnye-vredonosnye-programmy-atakuyut-pravitelstvennye-struktury_16697",
+        "description": "Эксперты Лаборатории Касперского выявили новую серию атак продвинутой постоянной угрозы (APT) Tomiris, начавшуюся в начале 2025 года. Целями киберпреступников стали министерства иностранных дел, межправительственные",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Kaspersky Lab",
+            "Tomiris"
+        ],
+        "views": 90,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:10:49.690991"
+    },
+    {
+        "post_id": "16687",
+        "title": "Кибершпионаж нового уровня: северокорейские хакерские группы Kimsuky и Lazarus объединили усилия",
+        "url": "https://1275.ru/ioc/kibershpionazh-novogo-urovnya-severokoreyskie-hakerskie-gruppy-kimsuky-i-lazarus-obedinili-usiliya_16687",
+        "description": "Эксперты по кибербезопасности из компании Trend Micro обнаружили беспрецедентный случай координации между двумя ведущими северокорейскими APT-группами. Группы Kimsuky и Lazarus, действующие под управлением",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "BeaverTail",
+            "CVE-2024-38193",
+            "FPSpy",
+            "FudModule",
+            "InvisibleFerret",
+            "Kimsuky",
+            "Lazarus",
+            "Trend Micro"
+        ],
+        "views": 75,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:10:50.016824"
+    },
+    {
+        "post_id": "16686",
+        "title": "Кибершпионы Kimsuky атакуют через фальшивые уведомления о медосмотре",
+        "url": "https://1275.ru/ioc/kibershpiony-kimsuky-atakuyut-cherez-falshivye-uvedomleniya-o-medosmotre_16686",
+        "description": "Группа северокорейских хакеров Kimsuky активно распространяет новую вредоносную кампанию через электронную почту. Злоумышленники маскируют атаку под официальное уведомление о медицинском обследовании, используя файл с названием \"건강검진 안내서.",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Kimsuky"
+        ],
+        "views": 83,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:10:50.223183"
+    },
+    {
+        "post_id": "16685",
+        "title": "Киберугроза Shai-Hulud 2.0: Беспрецедентная атака на экосистему npm",
+        "url": "https://1275.ru/ioc/kiberugroza-shai-hulud-2-0-bespretsedentnaya-ataka-na-ekosistemu-npm_16685",
+        "description": "В ноябре 2025 года исследователи кибербезопасности зафиксировали вторую волну кампании Shai-Hulud - агрессивную автоматизированную атаку на цепочку поставок npm.",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Netskope Threat Labs",
+            "Shai-Hulud"
+        ],
+        "views": 62,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:10:50.483927"
+    },
+    {
+        "post_id": "16683",
+        "title": "Китайские хакеры атакуют пользователей Telegram через вредоносную программу SetcodeRat",
+        "url": "https://1275.ru/ioc/kitayskie-hakery-atakuyut-polzovateley-telegram-cherez-vredonosnuyu-programmu-setcoderat_16683",
+        "description": "Эксперты по кибербезопасности из компании QiAnXin обнаружили новую целевую вредоносную программу, специально разработанную для пользователей Telegram в Китае и соседних регионах.",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "QiAnXin",
+            "SetcodeRat"
+        ],
+        "views": 54,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png",
+        "crawl_date": "2025-12-02T10:10:50.756391"
+    },
+    {
+        "post_id": "16682",
+        "title": "Киберпреступная группа Smishing Triad атакует финансовый сектор Египта через фишинговые кампании",
+        "url": "https://1275.ru/ioc/kiberprestupnaya-gruppa-smishing-triad-atakuet-finansovyy-sektor-egipta-cherez-fishingovye-kampanii_16682",
+        "description": "Эксперты по кибербезопасности выявили масштабную операцию китайской преступной группировки Smishing Triad, нацеленную на финансовые услуги и почтовые сервисы Египта.",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Dark Atlas",
+            "Smishing Triad"
+        ],
+        "views": 86,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:10:57.190755"
+    },
+    {
+        "post_id": "16726",
+        "title": "Индикаторы компрометации ботнета Mirai (обновление за 01.12.2025)",
+        "url": "https://1275.ru/ioc/indikatory-komprometatsii-botneta-mirai-obnovlenie-za-01-12-2025_16726",
+        "description": "Ботнет Mirai Internet of Things (IoT), печально известный своими атаками на подключенные бытовые устройства, такие как камеры, системы сигнализации и персональные маршрутизаторы, продолжает развиваться",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "1275 Research",
+            "Mirai"
+        ],
+        "views": 78,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
+        "crawl_date": "2025-12-02T10:10:57.400182"
+    },
+    {
+        "post_id": "16681",
+        "title": "Киберпреступники используют Discord для скрытого управления вредоносными программами",
+        "url": "https://1275.ru/ioc/kiberprestupniki-ispolzuyut-discord-dlya-skrytogo-upravleniya-vredonosnymi-programmami_16681",
+        "description": "Группа хакеров UNC5174 разработала новый тип бэкдора, который использует API платформы Discord для создания каналов управления и контроля. Об этом сообщили исследователи из AhnLab Security Intelligence Center (ASEC).",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "AhnLab SEcurity intelligence Center (ASEC)",
+            "UNC5174"
+        ],
+        "views": 67,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:10:57.592017"
+    },
+    {
+        "post_id": "16680",
+        "title": "Киберпреступники усиливают атаки с помощью ViperSoftX: теперь майнинг Monero и кража кошельков",
+        "url": "https://1275.ru/ioc/kiberprestupniki-usilivayut-ataki-s-pomoschyu-vipersoftx-teper-mayning-monero-i-krazha-koshelkov_16680",
+        "description": "Группа хакеров, использующих вредоносную программу ViperSoftX, расширила свой арсенал, добавив к традиционным функциям кражи криптовалютных кошельков майнер для добычи Monero.",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "AhnLab SEcurity intelligence Center (ASEC)",
+            "ViperSoftX"
+        ],
+        "views": 86,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:10:57.793539"
+    },
+    {
+        "post_id": "16679",
+        "title": "Зловредное расширение для Chrome скрытно взимает комиссии с пользователей Solana",
+        "url": "https://1275.ru/ioc/zlovrednoe-rasshirenie-dlya-chrome-skrytno-vzimaet-komissii-s-polzovateley-solana_16679",
+        "description": "Исследователи кибербезопасности из компании Socket обнаружили опасное расширение для браузера Chrome, которое манипулирует операциями обмена на платформе Raydium в экосистеме Solana.",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Socket Security"
+        ],
+        "views": 66,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:10:57.978003"
+    },
+    {
+        "post_id": "16676",
+        "title": "Модульная система доставки вредоносных программ TAG-150 угрожает предприятиям",
+        "url": "https://1275.ru/ioc/modulnaya-sistema-dostavki-vredonosnyh-programm-tag-150-ugrozhaet-predpriyatiyam_16676",
+        "description": "Группа TAG-150, оператор вредоносного программного обеспечения как услуги (Malware-as-a-Service, MaaS), с марта 2025 года проводит целевые атаки с использованием многоступенчатой системы доставки вредоносных программ.",
+        "author": "SEC-1275",
+        "date": "01.12.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "CastleLoader",
+            "CastleRAT",
+            "Darktrace Threat Research",
+            "TAG-150"
+        ],
+        "views": 72,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:10:58.221845"
+    },
+    {
+        "post_id": "16674",
+        "title": "Хакеры используют тему редкоземельных металлов для распространения вредоносной программы",
+        "url": "https://1275.ru/ioc/hakery-ispolzuyut-temu-redkozemelnyh-metallov-dlya-rasprostraneniya-vredonosnoy-programmy_16674",
+        "description": "21 ноября 2025 года группа Malware Hunter Team обнаружила новую целевую атаку, использующую тему редкоземельных металлов в качестве приманки. Злоумышленники загрузили на платформу VirusTotal из Сингапура",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "dmpdump"
+        ],
+        "views": 114,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:10:58.404834"
+    },
+    {
+        "post_id": "16664",
+        "title": "Киберпреступники провели глобальную тестовую атаку на IoT-устройства во время сбоя AWS",
+        "url": "https://1275.ru/ioc/kiberprestupniki-proveli-globalnuyu-testovuyu-ataku-na-iot-ustroystva-vo-vremya-sboya-aws_16664",
+        "description": "В конце октября, в период глобального нарушения соединений AWS (Amazon Web Services), исследователи FortiGuard Labs зафиксировали распространение вредоносного программного обеспечения под названием ShadowV2 через уязвимости интернета вещей.",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "FortiGuard Labs",
+            "ShadowV2"
+        ],
+        "views": 100,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png",
+        "crawl_date": "2025-12-02T10:10:58.596296"
+    },
+    {
+        "post_id": "16663",
+        "title": "Возвращение Shai-Hulud: новая волна атак на цепочку поставок NPM",
+        "url": "https://1275.ru/ioc/vozvraschenie-shai-hulud-novaya-volna-atak-na-tsepochku-postavok-npm_16663",
+        "description": "Экосистема NPM столкнулась с новой масштабной кампанией вредоносного программного обеспечения под названием Shai-Hulud, которая представляет собой усовершенствованную версию ранее документированной атаки на цепочку поставок.",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Pulsedive Threat Research",
+            "Shai-Hulud"
+        ],
+        "views": 148,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:10:58.861999"
+    },
+    {
+        "post_id": "16662",
+        "title": "Фальшивые версии Battlefield 6 и игровые читы распространяют воров данных и агентов удаленного доступа",
+        "url": "https://1275.ru/ioc/falshivye-versii-battlefield-6-i-igrovye-chity-rasprostranyayut-vorov-dannyh-i-agentov-udalennogo-dostupa_16662",
+        "description": "Исследовательская лаборатория Bitdefender выявила серию вредоносных кампаний, эксплуатирующих популярность шутера от первого лица Battlefield 6 от Electronic Arts.",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Bitdefender"
+        ],
+        "views": 87,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:10:59.208958"
+    },
+    {
+        "post_id": "16661",
+        "title": "Киберпреступники активно используют уязвимости IoT-устройств для распространения вредоносного ПО RondoDox",
+        "url": "https://1275.ru/ioc/kiberprestupniki-aktivno-ispolzuyut-uyazvimosti-iot-ustroystv-dlya-rasprostraneniya-vredonosnogo-po-rondodox_16661",
+        "description": "Эксперты по кибербезопасности обнаружили новую кампанию по распространению модификации ботнета Mirai под названием RondoDox, которая активно эксплуатирует уязвимости в устройствах интернета вещей (IoT).",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "F5 Threat Campaigns team",
+            "RondoDox"
+        ],
+        "views": 204,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png",
+        "crawl_date": "2025-12-02T10:10:59.677871"
+    },
+    {
+        "post_id": "16660",
+        "title": "FlexibleFerret продолжает красть пароли: как северокорейские хакеры используют фиктивные собеседования для атак на macOS",
+        "url": "https://1275.ru/ioc/flexibleferret-prodolzhaet-krast-paroli-kak-severokoreyskie-hakery-ispolzuyut-fiktivnye-sobesedovaniya-dlya-atak-na-macos_16660",
+        "description": "В начале 2025 года эксперты по кибербезопасности зафиксировали новую волну атак с использованием вредоносного ПО FlexibleFerret, которое связывают с северокорейскими хакерскими группами.",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "FlexibleFerret",
+            "Jamf Threat Labs"
+        ],
+        "views": 208,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:00.339050"
+    },
+    {
+        "post_id": "16658",
+        "title": "Расследование фишинговой атаки раскрыло масштабную кампанию BEC",
+        "url": "https://1275.ru/ioc/rassledovanie-fishingovoy-ataki-raskrylo-masshtabnuyu-kampaniyu-bec_16658",
+        "description": "Группа кибербезопасности Invictus предотвратила попытку компрометации корпоративной почты, которая оказалась частью широкомасштабной фишинговой кампании, нацеленной на технологические и фармацевтические компании по всему миру.",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "EvilProxy",
+            "Invictus"
+        ],
+        "views": 87,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
+        "crawl_date": "2025-12-02T10:11:07.071120"
+    },
+    {
+        "post_id": "16657",
+        "title": "Bloody Wolf расширяет атаки в Центральной Азии через поддельные документы министерств",
+        "url": "https://1275.ru/ioc/bloody-wolf-rasshiryaet-ataki-v-tsentralnoy-azii-cherez-poddelnye-dokumenty-ministerstv_16657",
+        "description": "Группа продвинутых постоянных угроз (APT) Bloody Wolf, активная с конца 2023 года, значительно расширила географию своих операций. Согласно совместному расследованию компаний Group-IB и UKUK, злоумышленники",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Bloody Wolf",
+            "Group-IB",
+            "NetSupport"
+        ],
+        "views": 101,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:11:07.299254"
+    },
+    {
+        "post_id": "16696",
+        "title": "Индикаторы компрометации ботнета Mirai (обновление за 28.11.2025)",
+        "url": "https://1275.ru/ioc/indikatory-komprometatsii-botneta-mirai-obnovlenie-za-28-11-2025_16696",
+        "description": "Ботнет Mirai Internet of Things (IoT), печально известный своими атаками на подключенные бытовые устройства, такие как камеры, системы сигнализации и персональные маршрутизаторы, продолжает развиваться",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "1275 Research",
+            "Mirai"
+        ],
+        "views": 187,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
+        "crawl_date": "2025-12-02T10:11:07.507818"
+    },
+    {
+        "post_id": "16653",
+        "title": "Кибермошенники активизируются перед Black Friday: зафиксирован всплеск фишинговых атак через поддельные сайты люксовых брендов",
+        "url": "https://1275.ru/ioc/kibermoshenniki-aktiviziruyutsya-pered-black-friday-zafiksirovan-vsplesk-fishingovyh-atak-cherez-poddelnye-sayty-lyuksovyh-brendov_16653",
+        "description": "С приближением Black Friday (Черной пятницы) - традиционного дня распродаж после Дня благодарения в США - киберпреступники значительно усилили фишинговую активность.",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Palo Alto"
+        ],
+        "views": 86,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:07.726503"
+    },
+    {
+        "post_id": "16651",
+        "title": "APT-группа Water Gamayun использует уязвимость Windows MMC в многоэтапной атаке",
+        "url": "https://1275.ru/ioc/apt-gruppa-water-gamayun-ispolzuet-uyazvimost-windows-mmc-v-mnogoetapnoy-atake_16651",
+        "description": "Эксперты Zscaler Threat Hunting раскрыли детали многоэтапной кибератаки, приписываемой группе продвинутых постоянных угроз Water Gamayun. Анализ показал, как безобидный веб-поиск превращался в сложную",
+        "author": "SEC-1275",
+        "date": "28.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "CVE-2025-26633",
+            "Water Gamayun",
+            "Zscaler ThreatLabz"
+        ],
+        "views": 202,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:11:07.988942"
+    },
+    {
+        "post_id": "16649",
+        "title": "Угрозы банкоматам никогда не умирают: новая волна атак группы UNC2891",
+        "url": "https://1275.ru/ioc/ugrozy-bankomatam-nikogda-ne-umirayut-novaya-volna-atak-gruppy-unc2891_16649",
+        "description": "Специалисты Group-IB опубликовали результаты многолетнего исследования деятельности хакерской группировки UNC2891, которая с 2022 года проводит целевые атаки на финансовые учреждения Индонезии.",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Group-IB",
+            "UNC2891",
+            "YARA Rules"
+        ],
+        "views": 86,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:11:08.205959"
+    },
+    {
+        "post_id": "16646",
+        "title": "Кибермошенники используют поддельные сайты для взрослых и реалистичный экран обновления Windows для распространения стилеров",
+        "url": "https://1275.ru/ioc/kibermoshenniki-ispolzuyut-poddelnye-sayty-dlya-vzroslyh-i-realistichnyy-ekran-obnovleniya-windows-dlya-rasprostraneniya-stilerov_16646",
+        "description": "Исследователи Acronis TRU обнаружили новую вредоносную кампанию, получившую название JackFix, которая сочетает методы захвата экрана с техникой ClickFix. Атака демонстрирует жертвам реалистичный полноэкранный",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Acronis Threat Research"
+        ],
+        "views": 82,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:08.402921"
+    },
+    {
+        "post_id": "16641",
+        "title": "Киберпреступник VasyGrek продолжает атаки на российские компании с обновленными методами",
+        "url": "https://1275.ru/ioc/kiberprestupnik-vasygrek-prodolzhaet-ataki-na-rossiyskie-kompanii-s-obnovlennymi-metodami_16641",
+        "description": "Аналитики компании F6 опубликовали результаты мониторинга активности русскоязычного злоумышленника VasyGrek за период с августа по ноябрь 2025 года. Согласно отчету, киберпреступник не только продолжил",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "F6 Threat Intelligence"
+        ],
+        "views": 119,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:11:08.629178"
+    },
+    {
+        "post_id": "16640",
+        "title": "Кибершпионаж нового уровня: хакерская группа RomCom использует инфраструктуру киберпреступников для атак на цели в США",
+        "url": "https://1275.ru/ioc/kibershpionazh-novogo-urovnya-hakerskaya-gruppa-romcom-ispolzuet-infrastrukturu-kiberprestupnikov-dlya-atak-na-tseli-v-ssha_16640",
+        "description": "В сентябре 2025 года специалисты исследовательского подразделения Arctic Wolf Labs обнаружили целевую атаку на американскую компанию, в которой угроза RomCom впервые использовала инфраструктуру вредоносной кампании SocGholish.",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Arctic Wolf Labs",
+            "RomCom",
+            "SocGholish"
+        ],
+        "views": 99,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:11:08.950986"
+    },
+    {
+        "post_id": "16631",
+        "title": "Угроза RelayNFC: как новый вредонос перехватывает бесконтактные платежи в Бразилии",
+        "url": "https://1275.ru/ioc/ugroza-relaynfc-kak-novyy-vredonos-perehvatyvaet-beskontaktnye-platezhi-v-brazilii_16631",
+        "description": "Лаборатория Cyble Research and Intelligence Labs (CRIL) обнаружила новую вредоносную программу для Android под названием RelayNFC, которая использует технологию Near-Field Communication (NFC) для перехвата данных бесконтактных платежей.",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Cyble Research Labs"
+        ],
+        "views": 77,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:09.194850"
+    },
+    {
+        "post_id": "16630",
+        "title": "Уязвимость в скриптах сборки Python пакетов создает риск компрометации домена",
+        "url": "https://1275.ru/ioc/uyazvimost-v-skriptah-sborki-python-paketov-sozdaet-risk-komprometatsii-domena_16630",
+        "description": "Исследователи кибербезопасности из ReversingLabs обнаружили опасную уязвимость в legacy-пакетах Python, которая потенциально позволяет злоумышленникам провести атаку на репозиторий PyPI (Python Package Index) через компрометацию домена.",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "ReversingLabs"
+        ],
+        "views": 107,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:09.417932"
+    },
+    {
+        "post_id": "16629",
+        "title": "Кибершпионаж в оборонной сфере: APT-группа Lazarus атакует производителей беспилотников через новый бэкдор ScoringMathTea",
+        "url": "https://1275.ru/ioc/kibershpionazh-v-oboronnoy-sfere-apt-gruppa-lazarus-atakuet-proizvoditeley-bespilotnikov-cherez-novyy-bekdor-scoringmathtea_16629",
+        "description": "Группа Lazarus, северокорейская APT (продвинутая постоянная угроза), развернула ранее неизвестный шпионский инструмент в рамках кампании Operation DreamJob. Новая фаза атаки, получившая название «Gotta",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "0x0d4y",
+            "ESET Research",
+            "Lazarus",
+            "PolySwarm"
+        ],
+        "views": 174,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:11:09.651548"
+    },
+    {
+        "post_id": "16628",
+        "title": "Вторая волна червя Shai-Hulud поразила более 600 пакетов npm",
+        "url": "https://1275.ru/ioc/vtoraya-volna-chervya-shai-hulud-porazila-bolee-600-paketov-npm_16628",
+        "description": "Экосистема npm столкнулась с новой масштабной угрозой - второй волной самораспространяющегося червя Shai-Hulud, который уже компрометировал 605 пакетов с совокупным числом загрузок свыше 100 миллионов.",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "ReversingLabs",
+            "Shai-Hulud"
+        ],
+        "views": 160,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:15.354384"
+    },
+    {
+        "post_id": "16678",
+        "title": "Индикаторы компрометации ботнета Mirai (обновление за 27.11.2025)",
+        "url": "https://1275.ru/ioc/indikatory-komprometatsii-botneta-mirai-obnovlenie-za-27-11-2025_16678",
+        "description": "Ботнет Mirai Internet of Things (IoT), печально известный своими атаками на подключенные бытовые устройства, такие как камеры, системы сигнализации и персональные маршрутизаторы, продолжает развиваться",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "1275 Research",
+            "Mirai"
+        ],
+        "views": 129,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
+        "crawl_date": "2025-12-02T10:11:15.554536"
+    },
+    {
+        "post_id": "16627",
+        "title": "Крупная кампания GhostAd: скрытая рекламная программа в Google Play истощает устройства и нарушает работу миллионов пользователей",
+        "url": "https://1275.ru/ioc/krupnaya-kampaniya-ghostad-skrytaya-reklamnaya-programma-v-google-play-istoschaet-ustroystva-i-narushaet-rabotu-millionov-polzovateley_16627",
+        "description": "Исследователи компании Check Point обнаружили масштабную кампанию с использованием рекламного ПО для Android, которая скрытно расходует ресурсы и нарушает нормальную работу телефонов через фоновую активность.",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Check Point Research"
+        ],
+        "views": 82,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:15.732843"
+    },
+    {
+        "post_id": "16626",
+        "title": "Злоумышленники массово тестируют вредоносное расширение для Chrome в VirusTotal",
+        "url": "https://1275.ru/ioc/zloumyshlenniki-massovo-testiruyut-vredonosnoe-rasshirenie-dlya-chrome-v-virustotal_16626",
+        "description": "Эксперты компании Palo Alto Networks обнаружили деятельность злоумышленников, которые систематически тестируют образцы вредоносного расширения для браузера Chrome через платформу VirusTotal.",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Palo Alto"
+        ],
+        "views": 109,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:15.941675"
+    },
+    {
+        "post_id": "16624",
+        "title": "Крупный инцидент с Gainsight: как уязвимость в подключенном приложении затронула сотни клиентов Salesforce",
+        "url": "https://1275.ru/ioc/krupnyy-intsident-s-gainsight-kak-uyazvimost-v-podklyuchennom-prilozhenii-zatronula-sotni-klientov-salesforce_16624",
+        "description": "Компания Salesforce предупредила клиентов о новом инциденте безопасности, связанном с приложением Gainsight, после обнаружения подозрительной активности в подключенных средах.",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "SOCRadar"
+        ],
+        "views": 74,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:16.124810"
+    },
+    {
+        "post_id": "16622",
+        "title": "Киберпреступники превратили WhatsApp в оружие массового заражения",
+        "url": "https://1275.ru/ioc/kiberprestupniki-prevratili-whatsapp-v-oruzhie-massovogo-zarazheniya_16622",
+        "description": "Эксперты по кибербезопасности из ISH Tecnologia обнаружили новую многостадийную кампанию WhatsWorm, которая использует мессенджер WhatsApp для массового распространения вредоносного ПО.",
+        "author": "SEC-1275",
+        "date": "27.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "ISH Tecnologia"
+        ],
+        "views": 88,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:16.340725"
+    },
+    {
+        "post_id": "16619",
+        "title": "Киберпреступники маскируют вредоносные программы в пикселях изображений",
+        "url": "https://1275.ru/ioc/kiberprestupniki-maskiruyut-vredonosnye-programmy-v-pikselyah-izobrazheniy_16619",
+        "description": "Эксперты по кибербезопасности обнаружили новую многоэтапную кампанию, в которой злоумышленники используют технику социальной инженерии ClickFix для распространения программ-похитителей информации.",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Huntress",
+            "Lumma"
+        ],
+        "views": 95,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:16.571562"
+    },
+    {
+        "post_id": "16618",
+        "title": "Киберпреступники атакуют пользователей Blender через поддельные 3D-модели для распространения StealC V2",
+        "url": "https://1275.ru/ioc/kiberprestupniki-atakuyut-polzovateley-blender-cherez-poddelnye-3d-modeli-dlya-rasprostraneniya-stealc-v2_16618",
+        "description": "Компания Morphisec обнаружила продолжающуюся как минимум шесть месяцев сложную кампанию по распространению вредоносного ПО, нацеленную на пользователей бесплатного 3D-редактора Blender.",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Morphisec Threat Labs",
+            "StealC"
+        ],
+        "views": 126,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
+        "crawl_date": "2025-12-02T10:11:16.810333"
+    },
+    {
+        "post_id": "16616",
+        "title": "Китайские хакеры массово взламывают маршрутизаторы ASUS по всему миру в ходе операции WrtHug",
+        "url": "https://1275.ru/ioc/kitayskie-hakery-massovo-vzlamyvayut-marshrutizatory-asus-po-vsemu-miru-v-hode-operatsii-wrthug_16616",
+        "description": "Глобальная кампания по взлому сетевого оборудования под кодовым названием WrtHug затронула тысячи маршрутизаторов ASUS по всему миру. Согласно исследованию SecurityScorecard, проведенному в консультации",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "CVE-2023-39780",
+            "CVE-2023-41345",
+            "CVE-2023-41346",
+            "CVE-2023-41347",
+            "CVE-2023-41348",
+            "CVE-2024-12912",
+            "CVE-2025-2492",
+            "SecurityScorecard"
+        ],
+        "views": 92,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:17.098558"
+    },
+    {
+        "post_id": "16615",
+        "title": "Индийская хакерская группа Dropping Elephant атакует оборонный сектор Пакистана с помощью нового стелс-бэкдора",
+        "url": "https://1275.ru/ioc/indiyskaya-hakerskaya-gruppa-dropping-elephant-atakuet-oboronnyy-sektor-pakistana-s-pomoschyu-novogo-stels-bekdora_16615",
+        "description": "Группа кибершпионажа Patchwork, также известная как Dropping Elephant или APT-C-09, развернула новую многоступенчатую кампанию против пакистанских оборонных организаций.",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Dropping Elephant"
+        ],
+        "views": 109,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:11:17.292463"
+    },
+    {
+        "post_id": "16612",
+        "title": "Злоумышленники распространяют через PyPI вредоносные пакеты для кражи криптовалюты",
+        "url": "https://1275.ru/ioc/zloumyshlenniki-rasprostranyayut-cherez-pypi-vredonosnye-pakety-dlya-krazhi-kriptovalyuty_16612",
+        "description": "Команда HelixGuard 19 ноября 2025 года обнаружила в репозитории PyPI (Python Package Index) вредоносный пакет spellcheckers, который маскируется под популярную библиотеку проверки орфографии.",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "HelixGuard"
+        ],
+        "views": 82,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:17.488162"
+    },
+    {
+        "post_id": "16588",
+        "title": "Первая фишинговая кампания против пользователей Klarna зафиксирована в Италии",
+        "url": "https://1275.ru/ioc/pervaya-fishingovaya-kampaniya-protiv-polzovateley-klarna-zafiksirovana-v-italii_16588",
+        "description": "Команда противодействия мошенничеству D3Lab обнаружила первую целевую фишинговую кампанию на итальянском языке, направленную против клиентов финансового сервиса Klarna.",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "D3Lab"
+        ],
+        "views": 82,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
+        "crawl_date": "2025-12-02T10:11:17.678534"
+    },
+    {
+        "post_id": "16513",
+        "title": "Киберпреступная группа Bling Libra разрабатывает новый шифровальщик ShinySp1d3r",
+        "url": "https://1275.ru/ioc/kiberprestupnaya-gruppa-bling-libra-razrabatyvaet-novyy-shifrovalschik-shinysp1d3r_16513",
+        "description": "Эксперты по кибербезопасности из Unit 42 обнаружили новые образцы вредоносного программного обеспечения, связанные с разработкой шифровальщика ShinySp1d3r. Данная угроза ассоциируется с известной киберпреступной",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Bling Libra",
+            "Palo Alto",
+            "ShinySp1d3r"
+        ],
+        "views": 97,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
+        "crawl_date": "2025-12-02T10:11:23.743171"
+    },
+    {
+        "post_id": "16512",
+        "title": "Киберальянсы новой эры: Gamaredon и Lazarus объединяют усилия",
+        "url": "https://1275.ru/ioc/kiberalyansy-novoy-ery-gamaredon-i-lazarus-obedinyayut-usiliya_16512",
+        "description": "Лаборатория Gen Threat Labs обнаружила свидетельства беспрецедентного взаимодействия между двумя ведущими хакерскими группировками. Речь идет о APT-группе Gamaredon и Lazarus, которые начали использовать общую инфраструктуру для кибератак.",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Gamaredon",
+            "Gen Threat Labs",
+            "Lazarus"
+        ],
+        "views": 143,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
+        "crawl_date": "2025-12-02T10:11:23.950251"
+    },
+    {
+        "post_id": "16656",
+        "title": "Индикаторы компрометации ботнета Mirai (обновление за 26.11.2025)",
+        "url": "https://1275.ru/ioc/indikatory-komprometatsii-botneta-mirai-obnovlenie-za-26-11-2025_16656",
+        "description": "Ботнет Mirai Internet of Things (IoT), печально известный своими атаками на подключенные бытовые устройства, такие как камеры, системы сигнализации и персональные маршрутизаторы, продолжает развиваться",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "1275 Research",
+            "Mirai"
+        ],
+        "views": 157,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
+        "crawl_date": "2025-12-02T10:11:24.144494"
+    },
+    {
+        "post_id": "16510",
+        "title": "Злоумышленники используют вредоносную рекламу для распространения фиктивных сообщений о вредоносном ПО",
+        "url": "https://1275.ru/ioc/zloumyshlenniki-ispolzuyut-vredonosnuyu-reklamu-dlya-rasprostraneniya-fiktivnyh-soobscheniy-o-vredonosnom-po_16510",
+        "description": "В ходе недавно обнаруженной кампании киберпреступники использовали технику вредоносной рекламы для перенаправления пользователей на фиктивные страницы с предупреждениями о вредоносном ПО.",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Malasada Tech"
+        ],
+        "views": 93,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:24.328934"
+    },
+    {
+        "post_id": "16509",
+        "title": "Кибермошенники атакуют налогоплательщиков: обнаружены сотни поддельных сайтов мексиканской налоговой службы",
+        "url": "https://1275.ru/ioc/kibermoshenniki-atakuyut-nalogoplatelschikov-obnaruzheny-sotni-poddelnyh-saytov-meksikanskoy-nalogovoy-sluzhby_16509",
+        "description": "Мексиканская налоговая администрация (Servicio de Administración Tributaria, SAT) опубликовала беспрецедентно длинный список фишинговых сайтов, которые злоумышленники используют для мошенничества с налогоплательщиками.",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Phishing"
+        ],
+        "views": 86,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
+        "crawl_date": "2025-12-02T10:11:24.521345"
+    },
+    {
+        "post_id": "16508",
+        "title": "Киберразведка обнаружила фиктивную платформу трудоустройства для таргетирования специалистов в области ИИ",
+        "url": "https://1275.ru/ioc/kiberrazvedka-obnaruzhila-fiktivnuyu-platformu-trudoustroystva-dlya-targetirovaniya-spetsialistov-v-oblasti-ii_16508",
+        "description": "Исследователи кибербезопасности зафиксировали новую эволюцию северокорейской операции Contagious Interview, в рамках которой создана поддельная платформа трудоустройства для компрометации специалистов",
+        "author": "SEC-1275",
+        "date": "26.11.2025",
+        "category": "Индикаторы компрометации",
+        "tags": [
+            "Validin"
+        ],
+        "views": 106,
+        "vote_score": 0,
+        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
+        "crawl_date": "2025-12-02T10:11:24.712618"
+    },
+    {
         "post_id": "16507",
         "title": "Группа Lazarus внедряет шпионское ПО через фиктивных IT-специалистов",
         "url": "https://1275.ru/ioc/gruppa-lazarus-vnedryaet-shpionskoe-po-cherez-fiktivnyh-it-spetsialistov_16507",
@@ -11,10 +935,10 @@
             "APT-C-26",
             "Ctfiot"
         ],
-        "views": 13,
+        "views": 120,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:37.115499"
+        "crawl_date": "2025-12-02T10:11:24.941202"
     },
     {
         "post_id": "16506",
@@ -28,10 +952,10 @@
             "MacSync",
             "Moonlock Lab"
         ],
-        "views": 51,
+        "views": 150,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
-        "crawl_date": "2025-11-26T07:03:37.279907"
+        "crawl_date": "2025-12-02T10:11:25.188263"
     },
     {
         "post_id": "16505",
@@ -45,10 +969,10 @@
             "Cisco Talos",
             "PolySwarm"
         ],
-        "views": 49,
+        "views": 145,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:03:37.515771"
+        "crawl_date": "2025-12-02T10:11:25.406891"
     },
     {
         "post_id": "16504",
@@ -63,10 +987,10 @@
             "DomainTools",
             "YARA Rules"
         ],
-        "views": 53,
+        "views": 148,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:37.713557"
+        "crawl_date": "2025-12-02T10:11:25.620236"
     },
     {
         "post_id": "16503",
@@ -81,10 +1005,10 @@
             "Cobalt Strike",
             "Sliver"
         ],
-        "views": 47,
+        "views": 88,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:37.932767"
+        "crawl_date": "2025-12-02T10:11:25.824636"
     },
     {
         "post_id": "16500",
@@ -98,10 +1022,10 @@
             "APT31",
             "Positive Technologies"
         ],
-        "views": 54,
+        "views": 163,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:38.148080"
+        "crawl_date": "2025-12-02T10:11:26.042231"
     },
     {
         "post_id": "16490",
@@ -114,10 +1038,10 @@
         "tags": [
             "Kimsuky"
         ],
-        "views": 52,
+        "views": 139,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:38.284059"
+        "crawl_date": "2025-12-02T10:11:32.897158"
     },
     {
         "post_id": "16489",
@@ -131,10 +1055,10 @@
             "AntianCERT",
             "Silver Fox"
         ],
-        "views": 54,
+        "views": 96,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:38.413836"
+        "crawl_date": "2025-12-02T10:11:33.112397"
     },
     {
         "post_id": "16487",
@@ -148,10 +1072,10 @@
             "Astaroth",
             "Sophos"
         ],
-        "views": 56,
+        "views": 91,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/01/banking-trojan-761x400.png",
-        "crawl_date": "2025-11-26T07:03:38.541057"
+        "crawl_date": "2025-12-02T10:11:33.306094"
     },
     {
         "post_id": "16613",
@@ -165,10 +1089,10 @@
             "1275 Research",
             "Mirai"
         ],
-        "views": 60,
+        "views": 124,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
-        "crawl_date": "2025-11-26T07:03:38.668355"
+        "crawl_date": "2025-12-02T10:11:33.510590"
     },
     {
         "post_id": "16486",
@@ -182,10 +1106,10 @@
             "ConvertMate",
             "Truesec"
         ],
-        "views": 62,
+        "views": 117,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:38.791294"
+        "crawl_date": "2025-12-02T10:11:33.749081"
     },
     {
         "post_id": "16484",
@@ -198,10 +1122,10 @@
         "tags": [
             "AhnLab SEcurity intelligence Center (ASEC)"
         ],
-        "views": 67,
+        "views": 99,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:38.912228"
+        "crawl_date": "2025-12-02T10:11:33.974093"
     },
     {
         "post_id": "16481",
@@ -214,10 +1138,10 @@
         "tags": [
             "AhnLab SEcurity intelligence Center (ASEC)"
         ],
-        "views": 62,
+        "views": 83,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:45.528324"
+        "crawl_date": "2025-12-02T10:11:34.191109"
     },
     {
         "post_id": "16479",
@@ -230,10 +1154,10 @@
         "tags": [
             "Orange Cyberdefense"
         ],
-        "views": 62,
+        "views": 85,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:45.662796"
+        "crawl_date": "2025-12-02T10:11:34.379601"
     },
     {
         "post_id": "16478",
@@ -248,10 +1172,10 @@
             "XillenStealer",
             "YARA Rules"
         ],
-        "views": 97,
+        "views": 137,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
-        "crawl_date": "2025-11-26T07:03:45.818734"
+        "crawl_date": "2025-12-02T10:11:34.594673"
     },
     {
         "post_id": "16477",
@@ -265,10 +1189,10 @@
             "NetSupport",
             "Positive Technologies"
         ],
-        "views": 90,
+        "views": 144,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
-        "crawl_date": "2025-11-26T07:03:45.979526"
+        "crawl_date": "2025-12-02T10:11:34.878183"
     },
     {
         "post_id": "16476",
@@ -282,10 +1206,10 @@
             "Kaspersky Lab",
             "ToddyCat"
         ],
-        "views": 95,
+        "views": 120,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:46.110970"
+        "crawl_date": "2025-12-02T10:11:35.101154"
     },
     {
         "post_id": "16473",
@@ -298,10 +1222,10 @@
         "tags": [
             "AhnLab SEcurity intelligence Center (ASEC)"
         ],
-        "views": 78,
+        "views": 99,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:46.234630"
+        "crawl_date": "2025-12-02T10:11:35.309999"
     },
     {
         "post_id": "16472",
@@ -315,10 +1239,10 @@
             "CVE-2025-61757",
             "SANS Internet Storm Center"
         ],
-        "views": 78,
+        "views": 98,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:46.378319"
+        "crawl_date": "2025-12-02T10:11:41.949755"
     },
     {
         "post_id": "16465",
@@ -333,10 +1257,10 @@
             "Google Threat Intelligence",
             "YARA Rules"
         ],
-        "views": 81,
+        "views": 108,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:46.520399"
+        "crawl_date": "2025-12-02T10:11:42.298573"
     },
     {
         "post_id": "16469",
@@ -349,10 +1273,10 @@
         "tags": [
             "K7 Labs"
         ],
-        "views": 74,
+        "views": 91,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:46.647098"
+        "crawl_date": "2025-12-02T10:11:42.486462"
     },
     {
         "post_id": "16464",
@@ -366,10 +1290,10 @@
             "CVE-2025-59287",
             "Huntress"
         ],
-        "views": 86,
+        "views": 107,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:46.781577"
+        "crawl_date": "2025-12-02T10:11:42.672933"
     },
     {
         "post_id": "16463",
@@ -383,10 +1307,10 @@
             "360 Advanced Threat Research",
             "SnowSoul"
         ],
-        "views": 84,
+        "views": 107,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:03:46.923758"
+        "crawl_date": "2025-12-02T10:11:42.932516"
     },
     {
         "post_id": "16502",
@@ -400,10 +1324,10 @@
             "1275 Research",
             "Mirai"
         ],
-        "views": 115,
+        "views": 134,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
-        "crawl_date": "2025-11-26T07:03:47.095370"
+        "crawl_date": "2025-12-02T10:11:43.151423"
     },
     {
         "post_id": "16460",
@@ -417,10 +1341,10 @@
             "CVE-2025-64446",
             "GreyNoise"
         ],
-        "views": 72,
+        "views": 86,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:52.380862"
+        "crawl_date": "2025-12-02T10:11:43.427140"
     },
     {
         "post_id": "16459",
@@ -433,10 +1357,10 @@
         "tags": [
             "NovaStealer"
         ],
-        "views": 78,
+        "views": 92,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
-        "crawl_date": "2025-11-26T07:03:52.518750"
+        "crawl_date": "2025-12-02T10:11:43.630887"
     },
     {
         "post_id": "16458",
@@ -450,10 +1374,10 @@
             "CVE-2025-11833",
             "Wordfence Threat Intelligence"
         ],
-        "views": 70,
+        "views": 85,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:52.667101"
+        "crawl_date": "2025-12-02T10:11:43.880961"
     },
     {
         "post_id": "16456",
@@ -467,10 +1391,10 @@
             "Eternidade",
             "Trustwave SpiderLabs"
         ],
-        "views": 76,
+        "views": 88,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/01/banking-trojan-761x400.png",
-        "crawl_date": "2025-11-26T07:03:52.821650"
+        "crawl_date": "2025-12-02T10:11:44.134050"
     },
     {
         "post_id": "16454",
@@ -483,10 +1407,10 @@
         "tags": [
             "AhnLab SEcurity intelligence Center (ASEC)"
         ],
-        "views": 106,
+        "views": 119,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
-        "crawl_date": "2025-11-26T07:03:52.997881"
+        "crawl_date": "2025-12-02T10:11:44.352941"
     },
     {
         "post_id": "16453",
@@ -499,10 +1423,10 @@
         "tags": [
             "AhnLab SEcurity intelligence Center (ASEC)"
         ],
-        "views": 108,
+        "views": 117,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:53.150962"
+        "crawl_date": "2025-12-02T10:11:44.647148"
     },
     {
         "post_id": "16452",
@@ -515,10 +1439,10 @@
         "tags": [
             "Akamai Security Research"
         ],
-        "views": 143,
+        "views": 177,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:53.301179"
+        "crawl_date": "2025-12-02T10:11:51.018779"
     },
     {
         "post_id": "16451",
@@ -532,10 +1456,10 @@
             "Kaspersky Lab",
             "Tsundere"
         ],
-        "views": 116,
+        "views": 129,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png",
-        "crawl_date": "2025-11-26T07:03:53.440073"
+        "crawl_date": "2025-12-02T10:11:51.220576"
     },
     {
         "post_id": "16450",
@@ -549,10 +1473,10 @@
             "Sturnus",
             "ThreatFabric"
         ],
-        "views": 122,
+        "views": 136,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/01/banking-trojan-761x400.png",
-        "crawl_date": "2025-11-26T07:03:53.582077"
+        "crawl_date": "2025-12-02T10:11:51.416192"
     },
     {
         "post_id": "16449",
@@ -567,10 +1491,10 @@
             "TamperedChef",
             "YARA Rules"
         ],
-        "views": 114,
+        "views": 124,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
-        "crawl_date": "2025-11-26T07:03:53.730291"
+        "crawl_date": "2025-12-02T10:11:51.644243"
     },
     {
         "post_id": "16448",
@@ -585,10 +1509,10 @@
             "Imperial Kitten",
             "MuddyWater"
         ],
-        "views": 98,
+        "views": 110,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:53.872302"
+        "crawl_date": "2025-12-02T10:11:51.857945"
     },
     {
         "post_id": "16442",
@@ -602,10 +1526,10 @@
             "CERT-UA",
             "GAMYBEAR"
         ],
-        "views": 107,
+        "views": 119,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:54.014424"
+        "crawl_date": "2025-12-02T10:11:52.072214"
     },
     {
         "post_id": "16468",
@@ -618,10 +1542,10 @@
         "tags": [
             "1275 Research"
         ],
-        "views": 149,
+        "views": 157,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
-        "crawl_date": "2025-11-26T07:03:59.302948"
+        "crawl_date": "2025-12-02T10:11:52.315680"
     },
     {
         "post_id": "16438",
@@ -635,10 +1559,10 @@
             "APT",
             "UNC3782"
         ],
-        "views": 99,
+        "views": 112,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:03:59.485976"
+        "crawl_date": "2025-12-02T10:11:52.573738"
     },
     {
         "post_id": "16437",
@@ -652,10 +1576,10 @@
             "Qilin",
             "ThreatLocker"
         ],
-        "views": 161,
+        "views": 169,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:03:59.676275"
+        "crawl_date": "2025-12-02T10:11:52.797847"
     },
     {
         "post_id": "16436",
@@ -668,10 +1592,10 @@
         "tags": [
             "Security Boulevard"
         ],
-        "views": 81,
+        "views": 92,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:03:59.847186"
+        "crawl_date": "2025-12-02T10:11:53.040865"
     },
     {
         "post_id": "16435",
@@ -686,10 +1610,10 @@
             "WithSecure",
             "XlAnyLoader"
         ],
-        "views": 99,
+        "views": 109,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:00.038883"
+        "crawl_date": "2025-12-02T10:11:53.249628"
     },
     {
         "post_id": "16433",
@@ -702,10 +1626,10 @@
         "tags": [
             "D3Lab"
         ],
-        "views": 90,
+        "views": 107,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:00.225409"
+        "crawl_date": "2025-12-02T10:11:53.558543"
     },
     {
         "post_id": "16431",
@@ -719,10 +1643,10 @@
             "Morphisec Threat Labs",
             "Tuoni"
         ],
-        "views": 93,
+        "views": 102,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:00.473497"
+        "crawl_date": "2025-12-02T10:11:59.736558"
     },
     {
         "post_id": "16430",
@@ -735,10 +1659,10 @@
         "tags": [
             "Symantec"
         ],
-        "views": 120,
+        "views": 136,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:00.889660"
+        "crawl_date": "2025-12-02T10:11:59.945839"
     },
     {
         "post_id": "16429",
@@ -753,10 +1677,10 @@
             "GonnaCry",
             "YARA Rules"
         ],
-        "views": 96,
+        "views": 107,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:04:01.487149"
+        "crawl_date": "2025-12-02T10:12:00.166360"
     },
     {
         "post_id": "16428",
@@ -771,10 +1695,10 @@
             "ESET Research",
             "PlushDaemon"
         ],
-        "views": 158,
+        "views": 169,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:01.929538"
+        "crawl_date": "2025-12-02T10:12:00.365130"
     },
     {
         "post_id": "16427",
@@ -789,10 +1713,10 @@
             "CVE-2025-59287",
             "ShadowPad"
         ],
-        "views": 147,
+        "views": 165,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:02.174334"
+        "crawl_date": "2025-12-02T10:12:00.554687"
     },
     {
         "post_id": "16426",
@@ -806,10 +1730,10 @@
             "Oligo Security",
             "ShadowRay"
         ],
-        "views": 93,
+        "views": 110,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png",
-        "crawl_date": "2025-11-26T07:04:02.416071"
+        "crawl_date": "2025-12-02T10:12:00.731510"
     },
     {
         "post_id": "16425",
@@ -822,10 +1746,10 @@
         "tags": [
             "Socket Security"
         ],
-        "views": 92,
+        "views": 99,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:08.554791"
+        "crawl_date": "2025-12-02T10:12:00.967706"
     },
     {
         "post_id": "16445",
@@ -839,10 +1763,10 @@
             "1275 Research",
             "Mirai"
         ],
-        "views": 126,
+        "views": 140,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
-        "crawl_date": "2025-11-26T07:04:08.733388"
+        "crawl_date": "2025-12-02T10:12:01.142787"
     },
     {
         "post_id": "16423",
@@ -855,10 +1779,10 @@
         "tags": [
             "Librarian Ghouls"
         ],
-        "views": 94,
+        "views": 103,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:08.928619"
+        "crawl_date": "2025-12-02T10:12:01.317979"
     },
     {
         "post_id": "16415",
@@ -871,10 +1795,10 @@
         "tags": [
             "Veracode Threat Research"
         ],
-        "views": 87,
+        "views": 97,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:09.084541"
+        "crawl_date": "2025-12-02T10:12:01.492202"
     },
     {
         "post_id": "16413",
@@ -888,10 +1812,10 @@
             "Cyber Armor",
             "YARA Rules"
         ],
-        "views": 95,
+        "views": 103,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:09.252827"
+        "crawl_date": "2025-12-02T10:12:01.674471"
     },
     {
         "post_id": "16412",
@@ -904,10 +1828,10 @@
         "tags": [
             "LayerX Security"
         ],
-        "views": 110,
+        "views": 121,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:09.394856"
+        "crawl_date": "2025-12-02T10:12:01.854269"
     },
     {
         "post_id": "16411",
@@ -920,10 +1844,10 @@
         "tags": [
             "Cybereason Security"
         ],
-        "views": 103,
+        "views": 109,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:04:09.535227"
+        "crawl_date": "2025-12-02T10:12:07.324605"
     },
     {
         "post_id": "16409",
@@ -936,10 +1860,10 @@
         "tags": [
             "K7 Labs"
         ],
-        "views": 91,
+        "views": 98,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:09.677249"
+        "crawl_date": "2025-12-02T10:12:07.522732"
     },
     {
         "post_id": "16379",
@@ -953,10 +1877,10 @@
             "KongTuke",
             "SANS Internet Storm Center"
         ],
-        "views": 99,
+        "views": 105,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:09.820788"
+        "crawl_date": "2025-12-02T10:12:07.716983"
     },
     {
         "post_id": "16378",
@@ -971,10 +1895,10 @@
             "Palo Alto",
             "Squeamish Libra"
         ],
-        "views": 139,
+        "views": 150,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:09.960974"
+        "crawl_date": "2025-12-02T10:12:07.931666"
     },
     {
         "post_id": "16377",
@@ -989,10 +1913,10 @@
             "MeshAgent",
             "NKNShell"
         ],
-        "views": 100,
+        "views": 106,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:10.101146"
+        "crawl_date": "2025-12-02T10:12:08.162779"
     },
     {
         "post_id": "16376",
@@ -1006,10 +1930,10 @@
             "CVE-2025-24893",
             "VulnCheck"
         ],
-        "views": 102,
+        "views": 108,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:10.232253"
+        "crawl_date": "2025-12-02T10:12:08.363732"
     },
     {
         "post_id": "16375",
@@ -1022,10 +1946,10 @@
         "tags": [
             "Starlight Intelligence"
         ],
-        "views": 103,
+        "views": 117,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:16.221323"
+        "crawl_date": "2025-12-02T10:12:08.550955"
     },
     {
         "post_id": "16373",
@@ -1036,10 +1960,10 @@
         "date": "19.11.2025",
         "category": "Индикаторы компрометации",
         "tags": [],
-        "views": 93,
+        "views": 101,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
-        "crawl_date": "2025-11-26T07:04:16.337186"
+        "crawl_date": "2025-12-02T10:12:08.723317"
     },
     {
         "post_id": "16408",
@@ -1053,10 +1977,10 @@
             "1275 Research",
             "Mirai"
         ],
-        "views": 141,
+        "views": 147,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
-        "crawl_date": "2025-11-26T07:04:16.466580"
+        "crawl_date": "2025-12-02T10:12:08.912754"
     },
     {
         "post_id": "16372",
@@ -1071,10 +1995,10 @@
             "UNC1549",
             "YARA Rules"
         ],
-        "views": 160,
+        "views": 172,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:16.608364"
+        "crawl_date": "2025-12-02T10:12:09.127583"
     },
     {
         "post_id": "16365",
@@ -1088,10 +2012,10 @@
             "DFIR Report",
             "Lynx"
         ],
-        "views": 130,
+        "views": 137,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:04:16.739328"
+        "crawl_date": "2025-12-02T10:12:09.323394"
     },
     {
         "post_id": "16364",
@@ -1105,947 +2029,9 @@
             "Bridewell",
             "Ransom-ISAC"
         ],
-        "views": 78,
+        "views": 85,
         "vote_score": 0,
         "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:16.870349"
-    },
-    {
-        "post_id": "16363",
-        "title": "Киберпреступники атакуют круглосуточно: новый стилер Amatera и RAT NetSupport в одной связке",
-        "url": "https://1275.ru/ioc/kiberprestupniki-atakuyut-kruglosutochno-novyy-stiler-amatera-i-rat-netsupport-v-odnoy-svyazke_16363",
-        "description": "Компания eSentire, специализирующаяся на управляемом обнаружении и реагировании на инциденты, опубликовала данные расследования новой вредоносной кампании. В ноябре 2025 года подразделение Threat Response",
-        "author": "SEC-1275",
-        "date": "19.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Amatera",
-            "eSentire",
-            "NetSupport"
-        ],
-        "views": 116,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:17.028875"
-    },
-    {
-        "post_id": "16362",
-        "title": "Обновленный .NET-лоадер со стеганографией скрывает многокомпонентные угрозы, включая Lokibot",
-        "url": "https://1275.ru/ioc/obnovlennyy-net-loader-so-steganografiey-skryvaet-mnogokomponentnye-ugrozy-vklyuchaya-lokibot_16362",
-        "description": "Исследователи информационной безопасности обнаружили новую версию вредоносного .NET-лоадера, использующего стеганографию для скрытой доставки нескольких типов опасного ПО, в том числе известного инфостилера Lokibot.",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Splunk Threat Research"
-        ],
-        "views": 120,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:17.150640"
-    },
-    {
-        "post_id": "16361",
-        "title": "Китайская хакерская группа APT41 атаковала американские политические институты",
-        "url": "https://1275.ru/ioc/kitayskaya-hakerskaya-gruppa-apt41-atakovala-amerikanskie-politicheskie-instituty_16361",
-        "description": "В апреле 2025 года китайская группа повышенной опасности APT41 провела масштабную кибершпионскую кампанию против американской некоммерческой организации, влияющей на государственную политику.",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "APT41",
-            "CVE-2021-44228",
-            "CVE-2022-26134",
-            "Hive"
-        ],
-        "views": 127,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:17.289193"
-    },
-    {
-        "post_id": "16359",
-        "title": "Новый macOS-инфорстейлер DigitStealer обходит защиту с помощью проверок оборудования и многоэтапных атак",
-        "url": "https://1275.ru/ioc/novyy-macos-inforsteyler-digitstealer-obhodit-zaschitu-s-pomoschyu-proverok-oborudovaniya-i-mnogoetapnyh-atak_16359",
-        "description": "Эксперты Jamf Threat Labs обнаружили новую вредоносную программу для macOS под названием DigitStealer, которая использует сложные аппаратные проверки и многоэтапные методы для уклонения от обнаружения.",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "DigitStealer",
-            "Jamf Threat Labs"
-        ],
-        "views": 104,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
-        "crawl_date": "2025-11-26T07:04:17.423317"
-    },
-    {
-        "post_id": "16358",
-        "title": "Иранская хакерская группа MuddyWater активизировала фишинговые атаки с новыми вредоносными программами",
-        "url": "https://1275.ru/ioc/iranskaya-hakerskaya-gruppa-muddywater-aktivizirovala-fishingovye-ataki-s-novymi-vredonosnymi-programmami_16358",
-        "description": "Группа кибершпионажа MuddyWater, также известная как Static Kitten и MERCURY, значительно модернизировала свои инструменты атак. По данным исследователей из 360 Advanced Threat Research, иранская APT-группа ",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "360 Advanced Threat Research",
-            "MuddyWater"
-        ],
-        "views": 150,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:17.558958"
-    },
-    {
-        "post_id": "16357",
-        "title": "Киберпреступники возрождают устаревший Finger-протокол для скрытых атак",
-        "url": "https://1275.ru/ioc/kiberprestupniki-vozrozhdayut-ustarevshiy-finger-protokol-dlya-skrytyh-atak_16357",
-        "description": "Специалисты по кибербезопасности зафиксировали новую волну атак с использованием давно забытого сетевого протокола Finger, разработанного несколько десятилетий назад.",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "BleepingComputer"
-        ],
-        "views": 95,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:17.682401"
-    },
-    {
-        "post_id": "16356",
-        "title": "Эксперты раскрыли детали атаки на устаревшие версии Bitrix через уязвимость в виртуальной машине",
-        "url": "https://1275.ru/ioc/eksperty-raskryli-detali-ataki-na-ustarevshie-versii-bitrix-cherez-uyazvimost-v-virtualnoy-mashine_16356",
-        "description": "В декабре прошлого года специалисты по кибербезопасности обнаружили в арсенале хакерской группировки Shedding Zmiy необычную утилиту под названием Install. Этот инструмент, кратко упомянутый в отчете Positive",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "BDU:2025-04539",
-            "Shedding Zmiy",
-            "Solar 4RAYS"
-        ],
-        "views": 117,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:24.434805"
-    },
-    {
-        "post_id": "16355",
-        "title": "Киберпреступники активизируют фишинговые атаки с троянами и удаленным доступом в октябре 2025 года",
-        "url": "https://1275.ru/ioc/kiberprestupniki-aktiviziruyut-fishingovye-ataki-s-troyanami-i-udalennym-dostupom-v-oktyabre-2025-goda_16355",
-        "description": "Новые данные ежемесячного отчета о тенденциях фишинговых рассылок за октябрь 2025 года демонстрируют тревожную эволюцию тактик киберпреступников. Согласно статистике, почти половина всех вредоносных вложений",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "AhnLab SEcurity intelligence Center (ASEC)"
-        ],
-        "views": 89,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
-        "crawl_date": "2025-11-26T07:04:24.612609"
-    },
-    {
-        "post_id": "16354",
-        "title": "Киберразведка обнаружила семь вредоносных серверов в Японии",
-        "url": "https://1275.ru/ioc/kiberrazvedka-obnaruzhila-sem-vredonosnyh-serverov-v-yaponii_16354",
-        "description": "В ходе еженедельного мониторинга киберугроз специалисты по информационной безопасности выявили семь активных командных серверов на территории Японии. Расследование проводилось с 3 по 9 ноября 2025 года",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "AsyncRAT",
-            "Brute Ratel",
-            "Censys",
-            "DCRat",
-            "NetSupport",
-            "Octopus",
-            "Sliver"
-        ],
-        "views": 94,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:24.816691"
-    },
-    {
-        "post_id": "16371",
-        "title": "Индикаторы компрометации ботнета Mirai (обновление за 18.11.2025)",
-        "url": "https://1275.ru/ioc/indikatory-komprometatsii-botneta-mirai-obnovlenie-za-18-11-2025_16371",
-        "description": "Ботнет Mirai Internet of Things (IoT), печально известный своими атаками на подключенные бытовые устройства, такие как камеры, системы сигнализации и персональные маршрутизаторы, продолжает развиваться",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "1275 Research",
-            "Mirai"
-        ],
-        "views": 107,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
-        "crawl_date": "2025-11-26T07:04:24.974497"
-    },
-    {
-        "post_id": "16353",
-        "title": "Китайскоязычные пользователи столкнулись с масштабными фишинговыми кампаниями Gh0st RAT через поддельные сайты популярного ПО",
-        "url": "https://1275.ru/ioc/kitayskoyazychnye-polzovateli-stolknulis-s-masshtabnymi-fishingovymi-kampaniyami-gh0st-rat-cherez-poddelnye-sayty-populyarnogo-po_16353",
-        "description": "В 2025 году киберпреступники развернули две взаимосвязанные кампании по распространению модификаций трояна Gh0st RAT (Remote Access Trojan - троян удаленного доступа), нацеленные на китайскоязычных пользователей по всему миру.",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Gh0stRAT",
-            "Palo Alto"
-        ],
-        "views": 130,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png",
-        "crawl_date": "2025-11-26T07:04:25.139990"
-    },
-    {
-        "post_id": "16335",
-        "title": "Критическая уязвимость в Fortinet FortiWeb позволяет злоумышленникам создавать административные учетные записи",
-        "url": "https://1275.ru/ioc/kriticheskaya-uyazvimost-v-fortinet-fortiweb-pozvolyaet-zloumyshlennikam-sozdavat-administrativnye-uchetnye-zapisi_16335",
-        "description": "В системах безопасности Fortinet FortiWeb обнаружена активная эксплуатация уязвимости типа обход путей (path traversal), позволяющая создавать административные учетные записи без аутентификации.",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Defused"
-        ],
-        "views": 105,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:25.319229"
-    },
-    {
-        "post_id": "16352",
-        "title": "Инфостилеры в октябре 2025: рост атак через легитимные сайты и DLL Side-Loading",
-        "url": "https://1275.ru/ioc/infostilery-v-oktyabre-2025-rost-atak-cherez-legitimnye-sayty-i-dll-side-loading_16352",
-        "description": "В октябре 2025 года эксперты AhnLab Security Intelligence Center (ASEC) зафиксировали значительную активность инфостилеров - вредоносных программ, предназначенных для кражи конфиденциальных данных.",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "ACRStealer",
-            "AhnLab SEcurity intelligence Center (ASEC)",
-            "Lumma",
-            "Rhadamanthys"
-        ],
-        "views": 96,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
-        "crawl_date": "2025-11-26T07:04:25.556238"
-    },
-    {
-        "post_id": "16332",
-        "title": "Киберполиция наносит удар по вредителю: операция Endgame разрушила инфраструктуру стейлера Rhadamanthys",
-        "url": "https://1275.ru/ioc/kiberpolitsiya-nanosit-udar-po-vreditelyu-operatsiya-endgame-razrushila-infrastrukturu-steylera-rhadamanthys_16332",
-        "description": "Международные правоохранительные органы в сотрудничестве с частным сектором нанесли значительный удар по киберпреступности, нарушив работу инфраструктуры вредоносной программы Rhadamanthys.",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Proofpoint Threat Research",
-            "Rhadamanthys"
-        ],
-        "views": 129,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
-        "crawl_date": "2025-11-26T07:04:25.709252"
-    },
-    {
-        "post_id": "16330",
-        "title": "Киберугрозы октября 2025: рекордные атаки вымогателей и новые группы атакуют критическую инфраструктуру",
-        "url": "https://1275.ru/ioc/kiberugrozy-oktyabrya-2025-rekordnye-ataki-vymogateley-i-novye-gruppy-atakuyut-kriticheskuyu-infrastrukturu_16330",
-        "description": "Октябрь 2025 года стал месяцем беспрецедентной киберугрозы, когда количество ransomware-атак (программы-вымогатели) достигло второго наивысшего показателя за всю историю наблюдений.",
-        "author": "SEC-1275",
-        "date": "18.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Akira",
-            "Cyble Research Labs",
-            "Qilin",
-            "RansomHub",
-            "Sinobi"
-        ],
-        "views": 96,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:04:25.888519"
-    },
-    {
-        "post_id": "16329",
-        "title": "Информационный стилер Lumma возобновляет активность с новой методикой браузерного фингерпринтинга",
-        "url": "https://1275.ru/ioc/informatsionnyy-stiler-lumma-vozobnovlyaet-aktivnost-s-novoy-metodikoy-brauzernogo-fingerprintinga_16329",
-        "description": "После сентябрьской деанонимизации предполагаемых создателей вредоносной программы Lumma Stealer, известной также как Water Kurita, активность этого инфостилера временно снизилась.",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Lumma",
-            "Trend Micro"
-        ],
-        "views": 106,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
-        "crawl_date": "2025-11-26T07:04:26.019662"
-    },
-    {
-        "post_id": "16327",
-        "title": "Киберугроза Akira: международные органы безопасности предупреждают о новой волне атак на критическую инфраструктуру",
-        "url": "https://1275.ru/ioc/kiberugroza-akira-mezhdunarodnye-organy-bezopasnosti-preduprezhdayut-o-novoy-volne-atak-na-kriticheskuyu-infrastrukturu_16327",
-        "description": "Федеральные агентства США и международные правоохранительные органы выпустили обновленное экстренное предупреждение о растущей угрозе со стороны группировки Akira ransomware.",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Akira",
-            "CISA",
-            "Federal Bureau of Investigation (FBI)"
-        ],
-        "views": 107,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:04:26.156875"
-    },
-    {
-        "post_id": "16323",
-        "title": "Новая вредоносная кампания RONINGLOADER атакует китайских пользователей через поддельные установщики",
-        "url": "https://1275.ru/ioc/novaya-vredonosnaya-kampaniya-roningloader-atakuet-kitayskih-polzovateley-cherez-poddelnye-ustanovschiki_16323",
-        "description": "Команда Elastic Security Labs обнаружила сложную многоступенчатую вредоносную кампанию, распространяющую модифицированную версию удаленного трояна gh0st RAT. Атака примечательна использованием подписанных",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Elastic Security Labs",
-            "RONINGLOADER",
-            "YARA Rules"
-        ],
-        "views": 122,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:26.305017"
-    },
-    {
-        "post_id": "16322",
-        "title": "Китайская хакерская группа UNC5174 расширила арсенал: обнаружена Windows-версия вредоносного ПО SNOWLIGHT",
-        "url": "https://1275.ru/ioc/kitayskaya-hakerskaya-gruppa-unc5174-rasshirila-arsenal-obnaruzhena-windows-versiya-vredonosnogo-po-snowlight_16322",
-        "description": "Японская интернет-компания IIJ в октябре 2025 года обнаружила ранее неизвестную Windows-версию вредоносной программы SNOWLIGHT, используемой китайской хакерской группой UNC5174.",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Internet Initiative Japan",
-            "UNC5174"
-        ],
-        "views": 165,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:32.554856"
-    },
-    {
-        "post_id": "16317",
-        "title": "Киберразведка в действии: как Acronis TRU и VirusTotal раскрыли многоступенчатые кампании FileFix, SideWinder и Shadow Vector",
-        "url": "https://1275.ru/ioc/kiberrazvedka-v-deystvii-kak-acronis-tru-i-virustotal-raskryli-mnogostupenchatye-kampanii-filefix-sidewinder-i-shadow-vector_16317",
-        "description": "Эксперты подразделения Acronis Threat Research Unit (TRU) в сотрудничестве с аналитиками VirusTotal представили результаты расследования трёх сложных киберкампаний, демонстрирующих эволюцию тактик современных злоумышленников.",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Acronis Threat Research",
-            "VirusTotal"
-        ],
-        "views": 151,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:32.787867"
-    },
-    {
-        "post_id": "16315",
-        "title": "Крупнейшая Android ботнет сеть Vo1d: искусственный интеллект раскрыл миллионные заражения",
-        "url": "https://1275.ru/ioc/krupneyshaya-android-botnet-set-vo1d-kak-iskusstvennyy-intellekt-raskryl-millionnye-zarazheniya_16315",
-        "description": "Компания Darktrace опубликовала результаты расследования деятельности вредоносной программы Vo1d, которая превратилась в одну из самых масштабных ботнет-сетей на платформе Android за всю историю наблюдений.",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Darktrace Threat Research",
-            "Vo1d"
-        ],
-        "views": 99,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/botnet-m.png",
-        "crawl_date": "2025-11-26T07:04:33.070414"
-    },
-    {
-        "post_id": "16313",
-        "title": "Угроза промышленного масштаба: как фишинг-кит целевой атаки на инфраструктуру Италии использует Telegram для автоматизации атак",
-        "url": "https://1275.ru/ioc/ugroza-promyshlennogo-masshtaba-kak-fishing-kit-tselevoy-ataki-na-infrastrukturu-italii-ispolzuet-telegram-dlya-avtomatizatsii-atak_16313",
-        "description": "Эксперты Group-IB раскрыли сложный многоступенчатый фишинг-кит, который целенаправленно атакует клиентов итальянского IT-провайдера Aruba. Этот профессиональный фреймворк использует многоуровневые методы",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Group-IB"
-        ],
-        "views": 89,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
-        "crawl_date": "2025-11-26T07:04:33.328868"
-    },
-    {
-        "post_id": "16311",
-        "title": "Криминалистический анализ Yurei: новая угроза шифрования для корпоративных сетей",
-        "url": "https://1275.ru/ioc/kriminalisticheskiy-analiz-yurei-novaya-ugroza-shifrovaniya-dlya-korporativnyh-setey_16311",
-        "description": "Группа Yurei, впервые обнаруженная в начале сентября 2025 года, представляет собой нового игрока на рынке вредоносного ПО типа ransomware (шифровальщик). Злоумышленники используют классическую операционную",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "AhnLab SEcurity intelligence Center (ASEC)",
-            "Yurei"
-        ],
-        "views": 101,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:04:33.584657"
-    },
-    {
-        "post_id": "16336",
-        "title": "Индикаторы компрометации ботнета Mirai (обновление за 17.11.2025)",
-        "url": "https://1275.ru/ioc/indikatory-komprometatsii-botneta-mirai-obnovlenie-za-17-11-2025_16336",
-        "description": "Ботнет Mirai Internet of Things (IoT), печально известный своими атаками на подключенные бытовые устройства, такие как камеры, системы сигнализации и персональные маршрутизаторы, продолжает развиваться",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "1275 Research",
-            "Mirai"
-        ],
-        "views": 162,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
-        "crawl_date": "2025-11-26T07:04:33.811403"
-    },
-    {
-        "post_id": "16309",
-        "title": "Группировка GOFFEE атакует российские компании через фишинг",
-        "url": "https://1275.ru/ioc/gruppirovka-goffee-atakuet-rossiyskie-kompanii-cherez-fishing_16309",
-        "description": "Группировка GOFFEE, также известная как Paper Werewolf, продолжает активно атаковать российские организации, демонстрируя высокий уровень адаптивности и технической подготовки.",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Goffee",
-            "Paper Werewolf"
-        ],
-        "views": 143,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:34.057186"
-    },
-    {
-        "post_id": "16307",
-        "title": "Угроза SmartApeSG: как фальшивая CAPTCHA приводит к заражению шпионскими программами",
-        "url": "https://1275.ru/ioc/ugroza-smartapesg-kak-falshivaya-captcha-privodit-k-zarazheniyu-shpionskimi-programmami_16307",
-        "description": "Киберпреступники активно совершенствуют методы социальной инженерии, о чем свидетельствует новая кампания SmartApeSG, обнаруживающаяся с июня 2024 года. Изначально злоумышленники использовали фальшивые",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "NetSupport",
-            "SANS Internet Storm Center"
-        ],
-        "views": 98,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png",
-        "crawl_date": "2025-11-26T07:04:34.362779"
-    },
-    {
-        "post_id": "16305",
-        "title": "Кибершпионаж в HR: северокорейские хакеры используют JSON-сервисы для доставки вредоносных программ",
-        "url": "https://1275.ru/ioc/kibershpionazh-v-hr-severokoreyskie-hakery-ispolzuyut-json-servisy-dlya-dostavki-vredonosnyh-programm_16305",
-        "description": "Аналитики компании NVISO зафиксировали новую тактику в кампании Contagious Interview, связанной с хакерами из Корейской Народно-Демократической Республики. Злоумышленники начали использовать сервисы хранения",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "BeaverTail",
-            "InvisibleFerret",
-            "NVISO Labs"
-        ],
-        "views": 114,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:34.595778"
-    },
-    {
-        "post_id": "16303",
-        "title": "Кибергруппа CapFIX атакует российские компании через фишинговые рассылки с бэкдором CapDoor",
-        "url": "https://1275.ru/ioc/kibergruppa-capfix-atakuet-rossiyskie-kompanii-cherez-fishingovye-rassylki-s-bekdorom-capdoor_16303",
-        "description": "Эксперты компании F6 обнаружили новую кибератаку на российские компании из финансового сектора и ритейла. Злоумышленники, получившие название CapFIX, используют изощренные фишинговые рассылки, маскируясь",
-        "author": "SEC-1275",
-        "date": "17.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "CapFIX",
-            "F6 Threat Intelligence"
-        ],
-        "views": 111,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:34.842543"
-    },
-    {
-        "post_id": "16302",
-        "title": "Вредоносное расширение Chrome похищает сид-фразы через транзакции в блокчейне",
-        "url": "https://1275.ru/ioc/vredonosnoe-rasshirenie-chrome-pohischaet-sid-frazy-cherez-tranzaktsii-v-blokcheyne_16302",
-        "description": "Исследователи кибербезопасности обнаружили в Chrome Web Store вредоносное расширение под названием Safery: Ethereum Wallet, которое маскируется под кошелёк для Ethereum.",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Socket Security"
-        ],
-        "views": 120,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:35.247474"
-    },
-    {
-        "post_id": "16301",
-        "title": "Кибершпионы Red Likho атакуют российские IT-компании через бэкдор GoRed",
-        "url": "https://1275.ru/ioc/kibershpiony-red-likho-atakuyut-rossiyskie-it-kompanii-cherez-bekdor-gored_16301",
-        "description": "Эксперты «Лаборатории Касперского» весной 2025 года обнаружили новую вредоносную кампанию с использованием бэкдора GoRed, нацеленную на российские организации. Этот инструмент кибершпионажа, также известный",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Bulldog",
-            "CVE-2021-31207",
-            "CVE-2021-34473",
-            "CVE-2021-34523",
-            "Kaspersky Lab"
-        ],
-        "views": 129,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:35.528917"
-    },
-    {
-        "post_id": "16300",
-        "title": "Киберпреступники усложняют доставку вредоносного ПО Formbook через многоступенчатые атаки",
-        "url": "https://1275.ru/ioc/kiberprestupniki-uslozhnyayut-dostavku-vredonosnogo-po-formbook-cherez-mnogostupenchatye-ataki_16300",
-        "description": "Эксперты по кибербезопасности зафиксировали новую многоэтапную кампанию по распространению вредоносного ПО Formbook, использующую сложные методы обфускации для обхода систем защиты.",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Formbook",
-            "SANS Internet Storm Center"
-        ],
-        "views": 210,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:40.905546"
-    },
-    {
-        "post_id": "16299",
-        "title": "Криптолокер Kraken: новая угроза корпоративным инфраструктурам",
-        "url": "https://1275.ru/ioc/kriptoloker-kraken-novaya-ugroza-korporativnym-infrastrukturam_16299",
-        "description": "В августе 2025 года эксперты Cisco Talos зафиксировали активность группировки Kraken, специализирующейся на атаках с двойным вымогательством. Группировка использует усовершенствованные техники шифрования",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Cisco Talos",
-            "Kraken"
-        ],
-        "views": 277,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:04:41.168544"
-    },
-    {
-        "post_id": "16297",
-        "title": "Под видом платежных документов: как устаревший формат VBS скрывает современную угрозу XWorm",
-        "url": "https://1275.ru/ioc/pod-vidom-platezhnyh-dokumentov-kak-ustarevshiy-format-vbs-skryvaet-sovremennuyu-ugrozu-xworm_16297",
-        "description": "Исследователи кибербезопасности обнаружили новую кампанию социальной инженерии, где злоумышленники используют устаревшие файлы VBS для распространения троянской программы Backdoor.",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Malwarebytes",
-            "XWorm"
-        ],
-        "views": 247,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:41.409524"
-    },
-    {
-        "post_id": "16280",
-        "title": "Злоумышленники используют AppleScript для обхода Gatekeeper в macOS",
-        "url": "https://1275.ru/ioc/zloumyshlenniki-ispolzuyut-applescript-dlya-obhoda-gatekeeper-v-macos_16280",
-        "description": "С августа 2024 года Apple устранила один из самых популярных векторов заражения в macOS - функцию «right-click and open», позволявшую обходить Gatekeeper. Однако злоумышленники быстро адаптировались и",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "BlueNoroff",
-            "Canva Security",
-            "MacSync",
-            "Odyssey"
-        ],
-        "views": 118,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:41.694058"
-    },
-    {
-        "post_id": "16278",
-        "title": "Киберугроза MastaStealer обходит защиту Windows через LNK-файлы",
-        "url": "https://1275.ru/ioc/kiberugroza-mastastealer-obhodit-zaschitu-windows-cherez-lnk-fayly_16278",
-        "description": "Злоумышленники активно используют уязвимости в механизме обработки ярлыков Windows LNK для проникновения в корпоративные сети. Недавно обнаруженная кампания с троянцем MastaStealer демонстрирует новый",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "MastaStealer"
-        ],
-        "views": 122,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/stealer.png",
-        "crawl_date": "2025-11-26T07:04:41.941474"
-    },
-    {
-        "post_id": "16277",
-        "title": "Троянец DarkComet возвращается в фальшивых биткоин-кошельках",
-        "url": "https://1275.ru/ioc/troyanets-darkcomet-vozvraschaetsya-v-falshivyh-bitkoin-koshelkah_16277",
-        "description": "Рост популярности криптовалют создал новые векторы для кибератак, где злоумышленники активно используют социальную инженерию. Недавно обнаруженная вредоносная кампания демонстрирует, как известный троянец",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "DarkComet",
-            "Point Wild"
-        ],
-        "views": 214,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png",
-        "crawl_date": "2025-11-26T07:04:42.166530"
-    },
-    {
-        "post_id": "16321",
-        "title": "Индикаторы компрометации ботнета Mirai (обновление за 14.11.2025)",
-        "url": "https://1275.ru/ioc/indikatory-komprometatsii-botneta-mirai-obnovlenie-za-14-11-2025_16321",
-        "description": "Ботнет Mirai Internet of Things (IoT), печально известный своими атаками на подключенные бытовые устройства, такие как камеры, системы сигнализации и персональные маршрутизаторы, продолжает развиваться",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "1275 Research",
-            "Mirai"
-        ],
-        "views": 217,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/09/mirai.jpg",
-        "crawl_date": "2025-11-26T07:04:42.384071"
-    },
-    {
-        "post_id": "16276",
-        "title": "Киберпреступники атаковали Booking: гости отелей стали жертвами мошенничества «Я заплатил дважды»",
-        "url": "https://1275.ru/ioc/kiberprestupniki-atakovali-booking-gosti-oteley-stali-zhertvami-moshennichestva-ya-zaplatil-dvazhdy_16276",
-        "description": "Мощная фишинговая кампания компрометирует аккаунты отелей на Booking, позволяя злоумышленникам обманывать гостей поддельными запросами на оплату. Атака под названием «I Paid Twice» («Я заплатил дважды»)",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Secure Blink"
-        ],
-        "views": 110,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
-        "crawl_date": "2025-11-26T07:04:42.594697"
-    },
-    {
-        "post_id": "16275",
-        "title": "Киберугрозы в домашних сетях: инструменты удаленного управления становятся оружием злоумышленников",
-        "url": "https://1275.ru/ioc/kiberugrozy-v-domashnih-setyah-instrumenty-udalennogo-upravleniya-stanovyatsya-oruzhiem-zloumyshlennikov_16275",
-        "description": "Современные домашние сети все чаще становятся мишенью для киберпреступников, использующих легитимные инструменты удаленного управления в злонамеренных целях. Исследование безопасности выявило тысячи неправильно",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Axelarator",
-            "Censys"
-        ],
-        "views": 110,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:42.830919"
-    },
-    {
-        "post_id": "16274",
-        "title": "Китайский центр кибербезопасности выявил серию зарубежных вредоносных ресурсов",
-        "url": "https://1275.ru/ioc/kitayskiy-tsentr-kiberbezopasnosti-vyyavil-seriyu-zarubezhnyh-vredonosnyh-resursov_16274",
-        "description": "Национальный центр информационного обмена о сетевой и информационной безопасности Китая через свои вспомогательные подразделения обнаружил ряд зарубежных вредоносных (malicious) веб-адресов и IP-адресов.",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "AsyncRAT",
-            "CERT-CN",
-            "DarkKomet",
-            "Mirai",
-            "MooBot",
-            "NanoCore",
-            "Quasar"
-        ],
-        "views": 100,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:43.142668"
-    },
-    {
-        "post_id": "16271",
-        "title": "Киберпреступники распространяют бэкдор под видом легального инструмента очистки Steam",
-        "url": "https://1275.ru/ioc/kiberprestupniki-rasprostranyayut-bekdor-pod-vidom-legalnogo-instrumenta-ochistki-steam_16271",
-        "description": "Злоумышленники активно распространяют вредоносное ПО, маскирующееся под легитимный инструмент SteamCleaner для оптимизации клиента игровой платформы Steam. Особенностью данной кампании является использование",
-        "author": "SEC-1275",
-        "date": "14.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "AhnLab SEcurity intelligence Center (ASEC)"
-        ],
-        "views": 105,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:43.343124"
-    },
-    {
-        "post_id": "16269",
-        "title": "Киберпреступники атакуют через легитимные инструменты удаленного управления",
-        "url": "https://1275.ru/ioc/kiberprestupniki-atakuyut-cherez-legitimnye-instrumenty-udalennogo-upravleniya_16269",
-        "description": "Эксперты AhnLab Security Intelligence Center (ASEC) обнаружили новую кампанию кибератак, в которой злоумышленники используют инструменты удаленного мониторинга и управления (RMM) LogMeIn Resolve и PDQ",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "AhnLab SEcurity intelligence Center (ASEC)",
-            "PatoRAT"
-        ],
-        "views": 134,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:43.566162"
-    },
-    {
-        "post_id": "16268",
-        "title": "Крупнейшая атака на цепочку поставок NPM: червь Shai-Hulud скомпрометировал данные 17 компаний",
-        "url": "https://1275.ru/ioc/krupneyshaya-ataka-na-tsepochku-postavok-npm-cherv-shai-hulud-skomprometiroval-dannye-17-kompaniy_16268",
-        "description": "С 14 по 16 сентября более 180 пакетов NPM были скомпрометированы и использованы для распространения червя Shai-Hulud, который получил название в честь гигантских песчаных червей из вселенной \"Дюны\".",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Shai-Hulud",
-            "UpGuard"
-        ],
-        "views": 121,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:48.514783"
-    },
-    {
-        "post_id": "16188",
-        "title": "Уязвимости в платформе SimpleHelp стали катализатором атак вымогателей Medusa и DragonForce",
-        "url": "https://1275.ru/ioc/uyazvimosti-v-platforme-simplehelp-stali-katalizatorom-atak-vymogateley-medusa-i-dragonforce_16188",
-        "description": "В начале 2025 года аналитики компании Zensec зафиксировали серию масштабных инцидентов с программами-вымогателями (ransomware), которые эксплуатировали уязвимости в платформе удаленного мониторинга и управления SimpleHelp.",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "CVE-2024-57726",
-            "CVE-2024-57727",
-            "CVE-2024-57728",
-            "DragonForce",
-            "Medusa",
-            "Zensec"
-        ],
-        "views": 149,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/ransomware.png",
-        "crawl_date": "2025-11-26T07:04:48.658419"
-    },
-    {
-        "post_id": "16186",
-        "title": "Кибербезопасность: Анализ связи между двумя эволюционирующими бразильскими банковскими троянами",
-        "url": "https://1275.ru/ioc/kiberbezopasnost-analiz-svyazi-mezhdu-dvumya-evolyutsioniruyuschimi-brazilskimi-bankovskimi-troyanami_16186",
-        "description": "Исследовательская группа CyberProof опубликовала развернутый анализ связи между двумя развивающимися бразильскими банковскими троянцами - Maverick и Coyote. Эксперты выявили значительное сходство в методах",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Coyote",
-            "CyberProof Research Team",
-            "Maverick"
-        ],
-        "views": 106,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/01/banking-trojan-761x400.png",
-        "crawl_date": "2025-11-26T07:04:48.794783"
-    },
-    {
-        "post_id": "16179",
-        "title": "Эра адаптивного вредоноса: как киберпреступники используют языковые модели для создания самообновляющихся угроз",
-        "url": "https://1275.ru/ioc/era-adaptivnogo-vredonosa-kak-kiberprestupniki-ispolzuyut-yazykovye-modeli-dlya-sozdaniya-samoobnovlyayuschihsya-ugroz_16179",
-        "description": "В 2025 году исследователи кибербезопасности зафиксировали принципиально новый этап эволюции вредоносного программного обеспечения. Злоумышленники начали массово интегрировать большие языковые модели (LLM)",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "PolySwarm"
-        ],
-        "views": 122,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:48.915612"
-    },
-    {
-        "post_id": "16178",
-        "title": "Критическая уязвимость в Triofox позволяет несанкционированный удаленный доступ без аутентификации",
-        "url": "https://1275.ru/ioc/kriticheskaya-uyazvimost-v-triofox-pozvolyaet-nesanktsionirovannyy-udalennyy-dostup-bez-autentifikatsii_16178",
-        "description": "Эксперты Mandiant Threat Defense обнаружили активную эксплуатацию уязвимости в платформе для совместной работы с файлами и удаленного доступа Triofox от компании Gladinet.",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "CVE-2025-12480",
-            "Google Threat Intelligence",
-            "Mandiant Threat Defense"
-        ],
-        "views": 168,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:49.044486"
-    },
-    {
-        "post_id": "16177",
-        "title": "Фишинг-атаки маскируются под уведомления о безопасности электронной почты",
-        "url": "https://1275.ru/ioc/fishing-ataki-maskiruyutsya-pod-uvedomleniya-o-bezopasnosti-elektronnoy-pochty_16177",
-        "description": "Эксперты по кибербезопасности из Palo Alto Networks обнаружили новую фишинг-кампанию, в которой злоумышленники рассылают сообщения, замаскированные под уведомления систем безопасности электронной почты.",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Palo Alto"
-        ],
-        "views": 123,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/12/phishing.jpg",
-        "crawl_date": "2025-11-26T07:04:49.163322"
-    },
-    {
-        "post_id": "16176",
-        "title": "Lazarus Group атакует аэрокосмический сектор через новый вариант бэкдора Comebacker",
-        "url": "https://1275.ru/ioc/lazarus-group-atakuet-aerokosmicheskiy-sektor-cherez-novyy-variant-bekdora-comebacker_16176",
-        "description": "Аналитики компании ENKI выявили новую целевую кампанию северокорейской хакерской группировки Lazarus Group, направленную на организации аэрокосмической и оборонной отраслей.",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Comebacker",
-            "ENKI WhiteHat",
-            "Lazarus"
-        ],
-        "views": 158,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/apt.png",
-        "crawl_date": "2025-11-26T07:04:49.293755"
-    },
-    {
-        "post_id": "16283",
-        "title": "Системы направления трафика (TDS) массово распространяют нежелательные программы через пиратский контент",
-        "url": "https://1275.ru/ioc/sistemy-napravleniya-trafika-tds-massovo-rasprostranyayut-nezhelatelnye-programmy-cherez-piratskiy-kontent_16283",
-        "description": "Исследователи кибербезопасности из Palo Alto Networks обнаружили масштабную кампанию с использованием систем направления трафика (TDS, Traffic Direction System), которые перенаправляют пользователей на",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Palo Alto"
-        ],
-        "views": 118,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:49.408949"
-    },
-    {
-        "post_id": "16175",
-        "title": "Банковский троянец Danabot возвращается с версией 669 после операции Endgame",
-        "url": "https://1275.ru/ioc/bankovskiy-troyanets-danabot-vozvraschaetsya-s-versiey-669-posle-operatsii-endgame_16175",
-        "description": "Печально известный банковский вредонос Danabot совершил возвращение с выпуском версии 669, что знаменует значительное возобновление активности после почти шести месяцев молчания, последовавших за скоординированной",
-        "author": "SEC-1275",
-        "date": "13.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "DanaBot",
-            "Zscaler ThreatLabz"
-        ],
-        "views": 124,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/01/banking-trojan-761x400.png",
-        "crawl_date": "2025-11-26T07:04:49.529764"
-    },
-    {
-        "post_id": "16168",
-        "title": "Киберпреступники внедряют технику Paste-Jacking для удаленного выполнения кода на устройствах жертв",
-        "url": "https://1275.ru/ioc/kiberprestupniki-vnedryayut-tehniku-paste-jacking-dlya-udalennogo-vypolneniya-koda-na-ustroystvah-zhertv_16168",
-        "description": "В начале 2025 года специалисты Truesec SOC (Security Operations Center) зафиксировали новую фишинговую методику под названием paste-jacking. Данная техника позволяет злоумышленникам получать возможности",
-        "author": "SEC-1275",
-        "date": "12.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Truesec"
-        ],
-        "views": 139,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:49.663217"
-    },
-    {
-        "post_id": "16165",
-        "title": "Кампания CHAMELEON#NET: глубокий анализ многоступенчатой .NET-угрозы с отраженной загрузкой и кастомным шифрованием",
-        "url": "https://1275.ru/ioc/kampaniya-chameleon-net-glubokiy-analiz-mnogostupenchatoy-net-ugrozy-s-otrazhennoy-zagruzkoy-i-kastomnym-shifrovaniem_16165",
-        "description": "Группа анализа угроз Securonix исследовала сложную кампанию вредоносного спама, распространяющую трояны удаленного доступа через семейство DarkTortilla. Атака начинается с фишинговых писем, заманивающих пользователей в загрузке архива .",
-        "author": "SEC-1275",
-        "date": "12.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "Securonix"
-        ],
-        "views": 177,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2022/10/rat-e1746348773923.png",
-        "crawl_date": "2025-11-26T07:04:49.778396"
-    },
-    {
-        "post_id": "16164",
-        "title": "Киберугроза GlassWorm продолжает распространяться: компрометация VS Code расширений и репозиториев GitHub",
-        "url": "https://1275.ru/ioc/kiberugroza-glassworm-prodolzhaet-rasprostranyatsya-komprometatsiya-vs-code-rasshireniy-i-repozitoriev-github_16164",
-        "description": "Через шестнадцать дней после официального объявления о полной локализации инцидента с червем GlassWorm исследователи безопасности зафиксировали новую волну заражений.",
-        "author": "SEC-1275",
-        "date": "12.11.2025",
-        "category": "Индикаторы компрометации",
-        "tags": [
-            "GlassWorm",
-            "Koi Security"
-        ],
-        "views": 183,
-        "vote_score": 0,
-        "image_url": "https://1275.ru/wp-content/uploads/2025/06/security-g0f3e5e56c.png",
-        "crawl_date": "2025-11-26T07:04:49.899734"
+        "crawl_date": "2025-12-02T10:12:09.515471"
     }
 ]
